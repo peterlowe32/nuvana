@@ -5,7 +5,7 @@ from langchain_openai import OpenAIEmbeddings
 from openai import OpenAI
 
 # === CONFIG ===
-VECTORSTORE_PATH = r"C:\Users\peter\Documents\AI\Flutter\nuvana\embeddings\bible_verse_embeddings"
+VECTORSTORE_PATH = VECTORSTORE_PATH = "bible_verse_embeddings"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # === SETUP ===
