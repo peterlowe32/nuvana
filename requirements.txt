@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+langchain==0.1.14
+langchain-community
+langchain-openai
+tiktoken
+pydantic
+python-dotenv
+faiss-cpu
+pandas
