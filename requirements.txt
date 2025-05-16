@@ -19,3 +19,4 @@ gdown
 # Pydantic and utility
 pydantic
 python-dotenv
+pydantic>=2.10.3
