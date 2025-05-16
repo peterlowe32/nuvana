@@ -5,6 +5,8 @@ from pathlib import Path
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from openai import OpenAI
+import pydantic
+print("📦 Using Pydantic version:", pydantic.__version__)
 
 # === DEBUG STARTUP LOGS ===
 print("✅ Starting generate_verse_with_reflection.py")
@@ -17,26 +19,36 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 # === AUTO-DOWNLOAD INDEX FILES FROM DROPBOX ===
+def download_file(url, save_path):
+    response = requests.get(url)
+    if response.status_code == 200:
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        with open(save_path, "wb") as f:
+            f.write(response.content)
+        print(f"✅ {os.path.basename(save_path)} downloaded: {len(response.content)} bytes")
+    else:
+        raise Exception(f"❌ Failed to download from {url}")
+
 def download_embeddings_if_needed():
     folder = Path(VECTORSTORE_PATH)
-    folder.mkdir(exist_ok=True)
-
     faiss_path = folder / "index.faiss"
     pkl_path = folder / "index.pkl"
 
-    if not faiss_path.exists():
-        print("⬇️ Downloading index.faiss from Dropbox...")
-        r = requests.get("https://www.dropbox.com/scl/fi/xe97xksd5kulpncoo0idu/index.faiss?rlkey=l7tn3jyf6jv5ymlrcfctovax9&st=2ix2d6cx&dl=1")
-        r.raise_for_status()
-        faiss_path.write_bytes(r.content)
-        print("✅ index.faiss downloaded:", faiss_path.stat().st_size, "bytes")
+    if faiss_path.exists() and pkl_path.exists():
+        print("✅ Vectorstore already exists. Skipping download.")
+        return
 
-    if not pkl_path.exists():
-        print("⬇️ Downloading index.pkl from Dropbox...")
-        r = requests.get("https://www.dropbox.com/scl/fi/w13ty9x10v5rgoytavo3s/index.pkl?rlkey=yd2264yjysva3mifoz9yzhwfl&st=un7a79tq&dl=1")
-        r.raise_for_status()
-        pkl_path.write_bytes(r.content)
-        print("✅ index.pkl downloaded:", pkl_path.stat().st_size, "bytes")
+    print("⬇️ Downloading vectorstore files from Dropbox...")
+
+    download_file(
+        "https://www.dropbox.com/scl/fi/afyqn3xo4svmwc3tng75c/index.faiss?rlkey=vmkmkbgbsquiyz4pwew20wtfb&st=3ye1htew&dl=1",
+        faiss_path
+    )
+
+    download_file(
+        "https://www.dropbox.com/scl/fi/bf7ltsqt5tilzuyp0q8j5/index.pkl?rlkey=pi2vs03kd3kfmz4xk5rhgu5ck&st=11j3ocsx&dl=1",
+        pkl_path
+    )
 
 
 # === RUN ON IMPORT ===
