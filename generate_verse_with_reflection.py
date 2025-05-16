@@ -1,3 +1,5 @@
+import requests
+from pathlib import Path
 import os
 import json
 from langchain_community.vectorstores import FAISS
@@ -9,7 +11,29 @@ VECTORSTORE_PATH = VECTORSTORE_PATH = "bible_verse_embeddings"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # === SETUP ===
+def download_embeddings_if_needed():
+    folder = Path("bible_verse_embeddings")
+    folder.mkdir(exist_ok=True)
+
+    faiss_path = folder / "index.faiss"
+    pkl_path = folder / "index.pkl"
+
+    if not faiss_path.exists():
+        print("⬇️ Downloading index.faiss...")
+        r = requests.get("https://drive.google.com/uc?export=download&id=1uxOSgua-JXenvtfnjxQ8bjQJ51vpOVc3")
+        faiss_path.write_bytes(r.content)
+
+    if not pkl_path.exists():
+        print("⬇️ Downloading index.pkl...")
+        r = requests.get("https://drive.google.com/uc?export=download&id=1AsfbwXLvyA8I8BFEIBer8SM7hLdm6mRf")
+        pkl_path.write_bytes(r.content)
+
 embedding_model = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
+download_embeddings_if_needed()
+
+embedding_model = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
+db = FAISS.load_local("bible_verse_embeddings", embedding_model, allow_dangerous_deserialization=True)
+
 db = FAISS.load_local(VECTORSTORE_PATH, embedding_model, allow_dangerous_deserialization=True)
 client = OpenAI(api_key=OPENAI_API_KEY)
 
