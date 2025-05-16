@@ -11,34 +11,27 @@ VECTORSTORE_PATH = VECTORSTORE_PATH = "bible_verse_embeddings"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # === SETUP ===
-import subprocess
+import requests
 from pathlib import Path
 
-def download_embeddings_if_needed():
-    folder = Path("bible_verse_embeddings")
-    folder.mkdir(exist_ok=True)
+download_embeddings_if_needed()
+embedding_model = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
+db = FAISS.load_local("bible_verse_embeddings", embedding_model, allow_dangerous_deserialization=True)
 
     faiss_path = folder / "index.faiss"
     pkl_path = folder / "index.pkl"
 
     if not faiss_path.exists():
-        print("⬇️ Downloading index.faiss via gdown...")
-        subprocess.run([
-            "gdown",
-            "--id", "1uxOSgua-JXenvtfnjxQ8bjQJ51vpOVc3",
-            "--output", str(faiss_path)
-        ], check=True)
+        print("⬇️ Downloading index.faiss from Dropbox...")
+        r = requests.get("https://www.dropbox.com/scl/fi/xe97xksd5kulpncoo0idu/index.faiss?rlkey=l7tn3jyf6jv5ymlrcfctovax9&st=2ix2d6cx&dl=1")
+        r.raise_for_status()
+        faiss_path.write_bytes(r.content)
 
     if not pkl_path.exists():
-        print("⬇️ Downloading index.pkl via gdown...")
-        subprocess.run([
-            "gdown",
-            "--id", "1AsfbwXLvyA8I8BFEIBer8SM7hLdm6mRf",
-            "--output", str(pkl_path)
-        ], check=True)
-
-embedding_model = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
-download_embeddings_if_needed()
+        print("⬇️ Downloading index.pkl from Dropbox...")
+        r = requests.get("https://www.dropbox.com/scl/fi/w13ty9x10v5rgoytavo3s/index.pkl?rlkey=yd2264yjysva3mifoz9yzhwfl&st=un7a79tq&dl=1")
+        r.raise_for_status()
+        pkl_path.write_bytes(r.content)
 
 db = FAISS.load_local(VECTORSTORE_PATH, embedding_model, allow_dangerous_deserialization=True)
 client = OpenAI(api_key=OPENAI_API_KEY)
