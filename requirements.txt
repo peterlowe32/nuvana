@@ -13,3 +13,4 @@ requests
 SQLAlchemy==2.0.41
 tenacity==8.5.0
 PyYAML==6.0.2
+uvicorn[standard]
