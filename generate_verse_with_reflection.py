@@ -17,7 +17,6 @@ print("🔐 OPENAI_API_KEY found:", bool(os.getenv("OPENAI_API_KEY")))
 VECTORSTORE_PATH = "bible_verse_embeddings"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-
 # === AUTO-DOWNLOAD INDEX FILES FROM DROPBOX ===
 def download_file(url, save_path):
     response = requests.get(url)
@@ -41,15 +40,14 @@ def download_embeddings_if_needed():
     print("⬇️ Downloading vectorstore files from Dropbox...")
 
     download_file(
-        "https://www.dropbox.com/scl/fi/afyqn3xo4svmwc3tng75c/index.faiss?rlkey=vmkmkbgbsquiyz4pwew20wtfb&st=3ye1htew&dl=1",
+        "https://www.dropbox.com/scl/fi/hjh7xnh8qlon6r5n4r8lh/index.faiss?rlkey=0pu4leqzzs5tc9di0tsuqsk7t&st=5v54y2yk&dl=1",
         faiss_path
     )
 
     download_file(
-        "https://www.dropbox.com/scl/fi/bf7ltsqt5tilzuyp0q8j5/index.pkl?rlkey=pi2vs03kd3kfmz4xk5rhgu5ck&st=11j3ocsx&dl=1",
+        "https://www.dropbox.com/scl/fi/0no12fy6tdwcw62tj88cg/index.pkl?rlkey=29ulf36f5qbrnrx76ev4cyk7v&st=kcqhiu9e&dl=1",
         pkl_path
     )
-
 
 # === RUN ON IMPORT ===
 download_embeddings_if_needed()
