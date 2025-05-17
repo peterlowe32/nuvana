@@ -54,7 +54,7 @@ download_embeddings_if_needed()
 
 # === SETUP EMBEDDING MODEL AND VECTORSTORE ===
 embedding_model = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
-db = FAISS.load_local(VECTORSTORE_PATH, embedding_model, allow_dangerous_deserialization=True)
+db = FAISS.load_local(VECTORSTORE_PATH, embedding_model)
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # === 1. Classify user state ===
