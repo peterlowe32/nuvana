@@ -11,7 +11,7 @@ app = FastAPI()
 # === Enable CORS ===
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Replace with specific frontend URL for production
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -76,12 +76,17 @@ def reflect(user_input: str = Query(..., description="Bible verse or emotional t
     tags = doc.metadata
     reflection = generate_reflection(verse, tags, user_input)
 
-    log_reflection(user_input, classification, tags, verse, reflection)
+    # Shorten reflection to <=5 sentences
+    short_reflection = " ".join(reflection.split(".")[:5]).strip()
+    if not short_reflection.endswith("."):
+        short_reflection += "."
+
+    log_reflection(user_input, classification, tags, verse, short_reflection)
 
     return {
-        "reference": tags.get("reference", "Unknown"),
-        "verse": verse,
-        "reflection": reflection,
+        "reference": f"**{tags.get('reference', 'Unknown')}**",
+        "verse": f"*{verse}*",
+        "reflection": short_reflection,
         "classification": classification
     }
 
@@ -104,13 +109,17 @@ async def get_daily_verse(req: VerseRequest, request: Request):
     verse_ref = tags.get("reference", "Unknown Reference")
     reflection = generate_reflection(verse, tags, req.message)
 
-    log_reflection(req.message, classification, tags, verse, reflection, req.user_id)
+    short_reflection = " ".join(reflection.split(".")[:5]).strip()
+    if not short_reflection.endswith("."):
+        short_reflection += "."
+
+    log_reflection(req.message, classification, tags, verse, short_reflection, req.user_id)
 
     return {
         "user_id": req.user_id,
-        "reference": verse_ref,
-        "verse": verse,
-        "reflection": reflection,
+        "reference": f"**{verse_ref}**",
+        "verse": f"*{verse}*",
+        "reflection": short_reflection,
         "tags": tags,
         "classification": classification
     }
