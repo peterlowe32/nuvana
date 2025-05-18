@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Request, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from generate_verse_with_reflection import classify_user_input, get_best_verse, generate_reflection
 from datetime import datetime
@@ -6,6 +7,15 @@ import os
 import csv
 
 app = FastAPI()
+
+# === Enable CORS ===
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Replace with specific frontend URL for production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # === Config ===
 NUVANA_API_KEY = os.getenv("NUVANA_API_KEY", "test-key")
@@ -110,3 +120,13 @@ async def get_daily_verse(req: VerseRequest, request: Request):
 async def feedback(feedback: FeedbackRequest):
     log_feedback(feedback.user_id, feedback.reference, feedback.helpful)
     return {"message": "Feedback recorded successfully"}
+
+# === GET /test ===
+@app.get("/test")
+def test_reflect():
+    return reflect(user_input="I'm feeling discouraged and tired")
+
+# === GET / (root health check) ===
+@app.get("/")
+def root():
+    return {"message": "Nuvana Reflection API is running."}
