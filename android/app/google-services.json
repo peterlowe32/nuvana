@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "39957190401",
+    "project_id": "nuvana-qdgji9",
+    "storage_bucket": "nuvana-qdgji9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39957190401:android:6c5749ea8e8a112c602d00",
+        "android_client_info": {
+          "package_name": "com.mycompany.nuvana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39957190401-1jeh7ni8l6u542fi1gq6jphao8h9ormk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.nuvana",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "39957190401-gfl1f9uhbpfjgia15qmibs1f5723hgda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqR0J04aA-xC5ArSjzUmOFo2uDlqn7hhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39957190401-gfl1f9uhbpfjgia15qmibs1f5723hgda.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39957190401-gpebiku49qu9ira3j35rb2nhtevam9s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nuvana.bibleapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

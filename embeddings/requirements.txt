@@ -1,0 +1,20 @@
+# FastAPI app
+fastapi
+uvicorn
+
+# OpenAI + embeddings
+openai
+langchain==0.1.14
+langchain-openai
+langchain-community
+tiktoken
+
+# Vector search
+faiss-cpu
+
+# Data handling
+pandas
+
+# Pydantic and utility
+pydantic
+python-dotenv

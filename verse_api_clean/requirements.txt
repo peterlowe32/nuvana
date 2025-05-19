@@ -1,0 +1,17 @@
+langchain==0.0.275
+langchain-community==0.0.6
+langchain-core==0.1.23
+langchain-openai==0.0.2
+faiss-cpu
+openai
+pydantic==1.10.13
+dataclasses-json==0.5.14
+marshmallow==3.26.1
+numpy==1.26.4
+tiktoken==0.5.2
+requests
+SQLAlchemy==2.0.41
+tenacity==8.5.0
+PyYAML==6.0.2
+uvicorn[standard]
+fastapi
