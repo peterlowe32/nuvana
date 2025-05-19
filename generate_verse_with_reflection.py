@@ -1,5 +1,7 @@
+# generate_verse_with_reflection.py
+
 from fastapi import FastAPI, Query
-from generate_verse_with_reflection import classify_user_input, get_best_verse, generate_reflection
+from verse_logic import classify_user_input, get_best_verse, generate_reflection
 
 app = FastAPI()
 
