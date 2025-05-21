@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 import '/flutter_flow/flutter_flow_util.dart';
 import 'api_manager.dart';
@@ -12,11 +13,6 @@ const _kPrivateApiFunctionName = 'ffPrivateApiCall';
 
 class BibleForUApiGroup {
   static String getBaseUrl() => 'https://bible4u.net/api/v1/';
-  static Map<String, String> headers = {
-    'Content-Type': 'application/json',
-    'Authorization':
-        'Bearer REMOVED_OPENAI_KEY',
-  };
   static ListOfVersionsCall listOfVersionsCall = ListOfVersionsCall();
   static ListOfBooksCall listOfBooksCall = ListOfBooksCall();
   static ListofChaptersCall listofChaptersCall = ListofChaptersCall();
@@ -24,53 +20,33 @@ class BibleForUApiGroup {
 }
 
 class ListOfVersionsCall {
-  Future<ApiCallResponse> call({
-    String? versionsShortName = '',
-  }) async {
+  Future<ApiCallResponse> call({String? versionsShortName = ''}) async {
     final baseUrl = BibleForUApiGroup.getBaseUrl();
-
     return ApiManager.instance.makeApiCall(
       callName: 'ListOfVersions',
-      apiUrl: '${baseUrl}bibles/${versionsShortName}',
+      apiUrl: '${baseUrl}bibles/$versionsShortName',
       callType: ApiCallType.GET,
       headers: {
         'Content-Type': 'application/json',
-        'Authorization':
-            'Bearer REMOVED_OPENAI_KEY',
       },
       params: {},
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 }
 
 class ListOfBooksCall {
-  Future<ApiCallResponse> call({
-    String? versionsShortName = '',
-  }) async {
+  Future<ApiCallResponse> call({String? versionsShortName = ''}) async {
     final baseUrl = BibleForUApiGroup.getBaseUrl();
-
     return ApiManager.instance.makeApiCall(
       callName: 'ListOfBooks',
-      apiUrl: '${baseUrl}bibles/${versionsShortName}',
+      apiUrl: '${baseUrl}bibles/$versionsShortName',
       callType: ApiCallType.GET,
       headers: {
         'Content-Type': 'application/json',
-        'Authorization':
-            'Bearer REMOVED_OPENAI_KEY',
       },
       params: {},
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 }
@@ -81,23 +57,15 @@ class ListofChaptersCall {
     String? booksShortName = '',
   }) async {
     final baseUrl = BibleForUApiGroup.getBaseUrl();
-
     return ApiManager.instance.makeApiCall(
       callName: 'ListofChapters',
-      apiUrl: '${baseUrl}bibles/${versionsShortName}/books/${booksShortName}',
+      apiUrl: '${baseUrl}bibles/$versionsShortName/books/$booksShortName',
       callType: ApiCallType.GET,
       headers: {
         'Content-Type': 'application/json',
-        'Authorization':
-            'Bearer REMOVED_OPENAI_KEY',
       },
       params: {},
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 }
@@ -109,24 +77,15 @@ class ListOfVersesCall {
     String? chaptersNum = '',
   }) async {
     final baseUrl = BibleForUApiGroup.getBaseUrl();
-
     return ApiManager.instance.makeApiCall(
       callName: 'ListOfVerses',
-      apiUrl:
-          '${baseUrl}bibles/${versionShortName}/books/${booksShortName}/chapters/${chaptersNum}',
+      apiUrl: '${baseUrl}bibles/$versionShortName/books/$booksShortName/chapters/$chaptersNum',
       callType: ApiCallType.GET,
       headers: {
         'Content-Type': 'application/json',
-        'Authorization':
-            'Bearer REMOVED_OPENAI_KEY',
       },
       params: {},
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 }
@@ -137,14 +96,12 @@ class ListOfVersesCall {
 
 class GetVerseoftheDayGroup {
   static String getBaseUrl() => 'https://bible-api.com/';
-  static Map<String, String> headers = {};
   static GetVerseoftheDayCall getVerseoftheDayCall = GetVerseoftheDayCall();
 }
 
 class GetVerseoftheDayCall {
   Future<ApiCallResponse> call() async {
     final baseUrl = GetVerseoftheDayGroup.getBaseUrl();
-
     return ApiManager.instance.makeApiCall(
       callName: 'getVerseoftheDay',
       apiUrl: '${baseUrl}john+3:16',
@@ -152,22 +109,14 @@ class GetVerseoftheDayCall {
       headers: {},
       params: {},
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 
-  String? ref(dynamic response) => castToType<String>(getJsonField(
-        response,
-        r'''$.reference''',
-      ));
-  String? txt(dynamic response) => castToType<String>(getJsonField(
-        response,
-        r'''$.text''',
-      ));
+  String? ref(dynamic response) =>
+      castToType<String>(getJsonField(response, r'''$.reference'''));
+
+  String? txt(dynamic response) =>
+      castToType<String>(getJsonField(response, r'''$.text'''));
 }
 
 /// End getVerseoftheDay Group Code
@@ -181,28 +130,18 @@ class VerseoftheDayCall {
       headers: {},
       params: {},
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 
-  static List<String>? verseText(dynamic response) => (getJsonField(
-        response,
-        r'''$["verse"]["details"]["text"]''',
-        true,
-      ) as List?)
+  static List<String>? verseText(dynamic response) =>
+      (getJsonField(response, r'''$["verse"]["details"]["text"]''', true) as List?)
           ?.withoutNulls
           .map((x) => castToType<String>(x))
           .withoutNulls
           .toList();
-  static List<String>? verseRef(dynamic response) => (getJsonField(
-        response,
-        r'''$["verse"]["details"]["reference"]''',
-        true,
-      ) as List?)
+
+  static List<String>? verseRef(dynamic response) =>
+      (getJsonField(response, r'''$["verse"]["details"]["reference"]''', true) as List?)
           ?.withoutNulls
           .map((x) => castToType<String>(x))
           .withoutNulls
@@ -225,33 +164,27 @@ class ReflectivePromptCall {
     }
   ]
 }''';
+
     return ApiManager.instance.makeApiCall(
       callName: 'ReflectivePrompt',
       apiUrl: 'https://api.openai.com/v1/chat/completions',
       callType: ApiCallType.POST,
       headers: {
         'Content-Type': 'application/json',
-        'Authorization':
-            'Bearer REMOVED_OPENAI_KEY',
+        'Authorization': 'Bearer ${dotenv.env['OPENAI_API_KEY']}',
       },
       params: {},
       body: ffApiRequestBody,
       bodyType: BodyType.JSON,
       returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
     );
   }
 
   static String? reflectivePrompt(dynamic response) =>
-      castToType<String>(getJsonField(
-        response,
-        r'''$.choices[0].message.content''',
-      ));
+      castToType<String>(getJsonField(response, r'''$.choices[0].message.content'''));
 }
+
+/// Utility
 
 class ApiPagingParams {
   int nextPageNumber = 0;
@@ -270,9 +203,7 @@ class ApiPagingParams {
 }
 
 String _toEncodable(dynamic item) {
-  if (item is DocumentReference) {
-    return item.path;
-  }
+  if (item is DocumentReference) return item.path;
   return item;
 }
 
@@ -301,9 +232,7 @@ String _serializeJson(dynamic jsonVar, [bool isList = false]) {
 }
 
 String? escapeStringForJson(String? input) {
-  if (input == null) {
-    return null;
-  }
+  if (input == null) return null;
   return input
       .replaceAll('\\', '\\\\')
       .replaceAll('"', '\\"')
