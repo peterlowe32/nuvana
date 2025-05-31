@@ -12,7 +12,7 @@ output_dir = "generated_images"
 os.makedirs(output_dir, exist_ok=True)
 
 # RunPod API endpoint
-endpoint = "https://59thhn0vnj3kcz-7860.proxy.runpod.net/sdapi/v1/txt2img"
+endpoint = " https://3128d98fa8a9e038c3.gradio.live/sdapi/txt2img"
 headers = {"Content-Type": "application/json"}
 
 # Generate images
