@@ -1,0 +1,2802 @@
+[
+  {
+    "style": "hyperrealistic",
+    "theme": "peace",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "hyperrealistic_peace_01",
+    "file_path": "assets/images/hyperrealistic/peace_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "suffering",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "hyperrealistic_suffering_01",
+    "file_path": "assets/images/hyperrealistic/suffering_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "hope",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "hyperrealistic_hope_01",
+    "file_path": "assets/images/hyperrealistic/hope_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "judgment",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "hyperrealistic_judgment_01",
+    "file_path": "assets/images/hyperrealistic/judgment_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "light",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "hyperrealistic_light_01",
+    "file_path": "assets/images/hyperrealistic/light_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "darkness",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "hyperrealistic_darkness_01",
+    "file_path": "assets/images/hyperrealistic/darkness_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "grace",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "hyperrealistic_grace_01",
+    "file_path": "assets/images/hyperrealistic/grace_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "redemption",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "hyperrealistic_redemption_01",
+    "file_path": "assets/images/hyperrealistic/redemption_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "wrath",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "hyperrealistic_wrath_01",
+    "file_path": "assets/images/hyperrealistic/wrath_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "guidance",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "hyperrealistic_guidance_01",
+    "file_path": "assets/images/hyperrealistic/guidance_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "love",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "hyperrealistic_love_01",
+    "file_path": "assets/images/hyperrealistic/love_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "fear",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "hyperrealistic_fear_01",
+    "file_path": "assets/images/hyperrealistic/fear_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "joy",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "hyperrealistic_joy_01",
+    "file_path": "assets/images/hyperrealistic/joy_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "war",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "hyperrealistic_war_01",
+    "file_path": "assets/images/hyperrealistic/war_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "repentance",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "hyperrealistic_repentance_01",
+    "file_path": "assets/images/hyperrealistic/repentance_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "salvation",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "hyperrealistic_salvation_01",
+    "file_path": "assets/images/hyperrealistic/salvation_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "sacrifice",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "hyperrealistic_sacrifice_01",
+    "file_path": "assets/images/hyperrealistic/sacrifice_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "justice",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "hyperrealistic_justice_01",
+    "file_path": "assets/images/hyperrealistic/justice_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "wisdom",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "hyperrealistic_wisdom_01",
+    "file_path": "assets/images/hyperrealistic/wisdom_01.png"
+  },
+  {
+    "style": "hyperrealistic",
+    "theme": "creation",
+    "prompt": "A hyperrealistic scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "hyperrealistic_creation_01",
+    "file_path": "assets/images/hyperrealistic/creation_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "peace",
+    "prompt": "A watercolor scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "watercolor_peace_01",
+    "file_path": "assets/images/watercolor/peace_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "suffering",
+    "prompt": "A watercolor scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "watercolor_suffering_01",
+    "file_path": "assets/images/watercolor/suffering_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "hope",
+    "prompt": "A watercolor scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "watercolor_hope_01",
+    "file_path": "assets/images/watercolor/hope_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "judgment",
+    "prompt": "A watercolor scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "watercolor_judgment_01",
+    "file_path": "assets/images/watercolor/judgment_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "light",
+    "prompt": "A watercolor scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "watercolor_light_01",
+    "file_path": "assets/images/watercolor/light_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "darkness",
+    "prompt": "A watercolor scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "watercolor_darkness_01",
+    "file_path": "assets/images/watercolor/darkness_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "grace",
+    "prompt": "A watercolor scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "watercolor_grace_01",
+    "file_path": "assets/images/watercolor/grace_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "redemption",
+    "prompt": "A watercolor scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "watercolor_redemption_01",
+    "file_path": "assets/images/watercolor/redemption_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "wrath",
+    "prompt": "A watercolor scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "watercolor_wrath_01",
+    "file_path": "assets/images/watercolor/wrath_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "guidance",
+    "prompt": "A watercolor scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "watercolor_guidance_01",
+    "file_path": "assets/images/watercolor/guidance_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "love",
+    "prompt": "A watercolor scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "watercolor_love_01",
+    "file_path": "assets/images/watercolor/love_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "fear",
+    "prompt": "A watercolor scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "watercolor_fear_01",
+    "file_path": "assets/images/watercolor/fear_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "joy",
+    "prompt": "A watercolor scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "watercolor_joy_01",
+    "file_path": "assets/images/watercolor/joy_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "war",
+    "prompt": "A watercolor scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "watercolor_war_01",
+    "file_path": "assets/images/watercolor/war_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "repentance",
+    "prompt": "A watercolor scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "watercolor_repentance_01",
+    "file_path": "assets/images/watercolor/repentance_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "salvation",
+    "prompt": "A watercolor scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "watercolor_salvation_01",
+    "file_path": "assets/images/watercolor/salvation_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "sacrifice",
+    "prompt": "A watercolor scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "watercolor_sacrifice_01",
+    "file_path": "assets/images/watercolor/sacrifice_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "justice",
+    "prompt": "A watercolor scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "watercolor_justice_01",
+    "file_path": "assets/images/watercolor/justice_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "wisdom",
+    "prompt": "A watercolor scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "watercolor_wisdom_01",
+    "file_path": "assets/images/watercolor/wisdom_01.png"
+  },
+  {
+    "style": "watercolor",
+    "theme": "creation",
+    "prompt": "A watercolor scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "watercolor_creation_01",
+    "file_path": "assets/images/watercolor/creation_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "peace",
+    "prompt": "A oil painting scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "oil_painting_peace_01",
+    "file_path": "assets/images/oil_painting/peace_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "suffering",
+    "prompt": "A oil painting scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "oil_painting_suffering_01",
+    "file_path": "assets/images/oil_painting/suffering_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "hope",
+    "prompt": "A oil painting scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "oil_painting_hope_01",
+    "file_path": "assets/images/oil_painting/hope_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "judgment",
+    "prompt": "A oil painting scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "oil_painting_judgment_01",
+    "file_path": "assets/images/oil_painting/judgment_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "light",
+    "prompt": "A oil painting scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "oil_painting_light_01",
+    "file_path": "assets/images/oil_painting/light_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "darkness",
+    "prompt": "A oil painting scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "oil_painting_darkness_01",
+    "file_path": "assets/images/oil_painting/darkness_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "grace",
+    "prompt": "A oil painting scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "oil_painting_grace_01",
+    "file_path": "assets/images/oil_painting/grace_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "redemption",
+    "prompt": "A oil painting scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "oil_painting_redemption_01",
+    "file_path": "assets/images/oil_painting/redemption_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "wrath",
+    "prompt": "A oil painting scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "oil_painting_wrath_01",
+    "file_path": "assets/images/oil_painting/wrath_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "guidance",
+    "prompt": "A oil painting scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "oil_painting_guidance_01",
+    "file_path": "assets/images/oil_painting/guidance_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "love",
+    "prompt": "A oil painting scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "oil_painting_love_01",
+    "file_path": "assets/images/oil_painting/love_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "fear",
+    "prompt": "A oil painting scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "oil_painting_fear_01",
+    "file_path": "assets/images/oil_painting/fear_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "joy",
+    "prompt": "A oil painting scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "oil_painting_joy_01",
+    "file_path": "assets/images/oil_painting/joy_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "war",
+    "prompt": "A oil painting scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "oil_painting_war_01",
+    "file_path": "assets/images/oil_painting/war_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "repentance",
+    "prompt": "A oil painting scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "oil_painting_repentance_01",
+    "file_path": "assets/images/oil_painting/repentance_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "salvation",
+    "prompt": "A oil painting scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "oil_painting_salvation_01",
+    "file_path": "assets/images/oil_painting/salvation_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "sacrifice",
+    "prompt": "A oil painting scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "oil_painting_sacrifice_01",
+    "file_path": "assets/images/oil_painting/sacrifice_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "justice",
+    "prompt": "A oil painting scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "oil_painting_justice_01",
+    "file_path": "assets/images/oil_painting/justice_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "wisdom",
+    "prompt": "A oil painting scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "oil_painting_wisdom_01",
+    "file_path": "assets/images/oil_painting/wisdom_01.png"
+  },
+  {
+    "style": "oil painting",
+    "theme": "creation",
+    "prompt": "A oil painting scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "oil_painting_creation_01",
+    "file_path": "assets/images/oil_painting/creation_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "peace",
+    "prompt": "A 8-bit scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "8-bit_peace_01",
+    "file_path": "assets/images/8-bit/peace_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "suffering",
+    "prompt": "A 8-bit scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "8-bit_suffering_01",
+    "file_path": "assets/images/8-bit/suffering_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "hope",
+    "prompt": "A 8-bit scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "8-bit_hope_01",
+    "file_path": "assets/images/8-bit/hope_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "judgment",
+    "prompt": "A 8-bit scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "8-bit_judgment_01",
+    "file_path": "assets/images/8-bit/judgment_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "light",
+    "prompt": "A 8-bit scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "8-bit_light_01",
+    "file_path": "assets/images/8-bit/light_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "darkness",
+    "prompt": "A 8-bit scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "8-bit_darkness_01",
+    "file_path": "assets/images/8-bit/darkness_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "grace",
+    "prompt": "A 8-bit scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "8-bit_grace_01",
+    "file_path": "assets/images/8-bit/grace_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "redemption",
+    "prompt": "A 8-bit scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "8-bit_redemption_01",
+    "file_path": "assets/images/8-bit/redemption_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "wrath",
+    "prompt": "A 8-bit scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "8-bit_wrath_01",
+    "file_path": "assets/images/8-bit/wrath_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "guidance",
+    "prompt": "A 8-bit scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "8-bit_guidance_01",
+    "file_path": "assets/images/8-bit/guidance_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "love",
+    "prompt": "A 8-bit scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "8-bit_love_01",
+    "file_path": "assets/images/8-bit/love_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "fear",
+    "prompt": "A 8-bit scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "8-bit_fear_01",
+    "file_path": "assets/images/8-bit/fear_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "joy",
+    "prompt": "A 8-bit scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "8-bit_joy_01",
+    "file_path": "assets/images/8-bit/joy_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "war",
+    "prompt": "A 8-bit scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "8-bit_war_01",
+    "file_path": "assets/images/8-bit/war_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "repentance",
+    "prompt": "A 8-bit scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "8-bit_repentance_01",
+    "file_path": "assets/images/8-bit/repentance_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "salvation",
+    "prompt": "A 8-bit scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "8-bit_salvation_01",
+    "file_path": "assets/images/8-bit/salvation_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "sacrifice",
+    "prompt": "A 8-bit scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "8-bit_sacrifice_01",
+    "file_path": "assets/images/8-bit/sacrifice_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "justice",
+    "prompt": "A 8-bit scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "8-bit_justice_01",
+    "file_path": "assets/images/8-bit/justice_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "wisdom",
+    "prompt": "A 8-bit scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "8-bit_wisdom_01",
+    "file_path": "assets/images/8-bit/wisdom_01.png"
+  },
+  {
+    "style": "8-bit",
+    "theme": "creation",
+    "prompt": "A 8-bit scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "8-bit_creation_01",
+    "file_path": "assets/images/8-bit/creation_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "peace",
+    "prompt": "A pixel art scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "pixel_art_peace_01",
+    "file_path": "assets/images/pixel_art/peace_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "suffering",
+    "prompt": "A pixel art scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "pixel_art_suffering_01",
+    "file_path": "assets/images/pixel_art/suffering_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "hope",
+    "prompt": "A pixel art scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "pixel_art_hope_01",
+    "file_path": "assets/images/pixel_art/hope_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "judgment",
+    "prompt": "A pixel art scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "pixel_art_judgment_01",
+    "file_path": "assets/images/pixel_art/judgment_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "light",
+    "prompt": "A pixel art scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "pixel_art_light_01",
+    "file_path": "assets/images/pixel_art/light_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "darkness",
+    "prompt": "A pixel art scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "pixel_art_darkness_01",
+    "file_path": "assets/images/pixel_art/darkness_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "grace",
+    "prompt": "A pixel art scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "pixel_art_grace_01",
+    "file_path": "assets/images/pixel_art/grace_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "redemption",
+    "prompt": "A pixel art scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "pixel_art_redemption_01",
+    "file_path": "assets/images/pixel_art/redemption_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "wrath",
+    "prompt": "A pixel art scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "pixel_art_wrath_01",
+    "file_path": "assets/images/pixel_art/wrath_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "guidance",
+    "prompt": "A pixel art scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "pixel_art_guidance_01",
+    "file_path": "assets/images/pixel_art/guidance_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "love",
+    "prompt": "A pixel art scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "pixel_art_love_01",
+    "file_path": "assets/images/pixel_art/love_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "fear",
+    "prompt": "A pixel art scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "pixel_art_fear_01",
+    "file_path": "assets/images/pixel_art/fear_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "joy",
+    "prompt": "A pixel art scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "pixel_art_joy_01",
+    "file_path": "assets/images/pixel_art/joy_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "war",
+    "prompt": "A pixel art scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "pixel_art_war_01",
+    "file_path": "assets/images/pixel_art/war_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "repentance",
+    "prompt": "A pixel art scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "pixel_art_repentance_01",
+    "file_path": "assets/images/pixel_art/repentance_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "salvation",
+    "prompt": "A pixel art scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "pixel_art_salvation_01",
+    "file_path": "assets/images/pixel_art/salvation_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "sacrifice",
+    "prompt": "A pixel art scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "pixel_art_sacrifice_01",
+    "file_path": "assets/images/pixel_art/sacrifice_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "justice",
+    "prompt": "A pixel art scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "pixel_art_justice_01",
+    "file_path": "assets/images/pixel_art/justice_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "wisdom",
+    "prompt": "A pixel art scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "pixel_art_wisdom_01",
+    "file_path": "assets/images/pixel_art/wisdom_01.png"
+  },
+  {
+    "style": "pixel art",
+    "theme": "creation",
+    "prompt": "A pixel art scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "pixel_art_creation_01",
+    "file_path": "assets/images/pixel_art/creation_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "peace",
+    "prompt": "A anime scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "anime_peace_01",
+    "file_path": "assets/images/anime/peace_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "suffering",
+    "prompt": "A anime scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "anime_suffering_01",
+    "file_path": "assets/images/anime/suffering_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "hope",
+    "prompt": "A anime scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "anime_hope_01",
+    "file_path": "assets/images/anime/hope_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "judgment",
+    "prompt": "A anime scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "anime_judgment_01",
+    "file_path": "assets/images/anime/judgment_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "light",
+    "prompt": "A anime scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "anime_light_01",
+    "file_path": "assets/images/anime/light_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "darkness",
+    "prompt": "A anime scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "anime_darkness_01",
+    "file_path": "assets/images/anime/darkness_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "grace",
+    "prompt": "A anime scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "anime_grace_01",
+    "file_path": "assets/images/anime/grace_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "redemption",
+    "prompt": "A anime scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "anime_redemption_01",
+    "file_path": "assets/images/anime/redemption_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "wrath",
+    "prompt": "A anime scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "anime_wrath_01",
+    "file_path": "assets/images/anime/wrath_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "guidance",
+    "prompt": "A anime scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "anime_guidance_01",
+    "file_path": "assets/images/anime/guidance_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "love",
+    "prompt": "A anime scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "anime_love_01",
+    "file_path": "assets/images/anime/love_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "fear",
+    "prompt": "A anime scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "anime_fear_01",
+    "file_path": "assets/images/anime/fear_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "joy",
+    "prompt": "A anime scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "anime_joy_01",
+    "file_path": "assets/images/anime/joy_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "war",
+    "prompt": "A anime scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "anime_war_01",
+    "file_path": "assets/images/anime/war_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "repentance",
+    "prompt": "A anime scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "anime_repentance_01",
+    "file_path": "assets/images/anime/repentance_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "salvation",
+    "prompt": "A anime scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "anime_salvation_01",
+    "file_path": "assets/images/anime/salvation_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "sacrifice",
+    "prompt": "A anime scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "anime_sacrifice_01",
+    "file_path": "assets/images/anime/sacrifice_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "justice",
+    "prompt": "A anime scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "anime_justice_01",
+    "file_path": "assets/images/anime/justice_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "wisdom",
+    "prompt": "A anime scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "anime_wisdom_01",
+    "file_path": "assets/images/anime/wisdom_01.png"
+  },
+  {
+    "style": "anime",
+    "theme": "creation",
+    "prompt": "A anime scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "anime_creation_01",
+    "file_path": "assets/images/anime/creation_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "peace",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "cyberpunk_peace_01",
+    "file_path": "assets/images/cyberpunk/peace_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "suffering",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "cyberpunk_suffering_01",
+    "file_path": "assets/images/cyberpunk/suffering_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "hope",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "cyberpunk_hope_01",
+    "file_path": "assets/images/cyberpunk/hope_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "judgment",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "cyberpunk_judgment_01",
+    "file_path": "assets/images/cyberpunk/judgment_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "light",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "cyberpunk_light_01",
+    "file_path": "assets/images/cyberpunk/light_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "darkness",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "cyberpunk_darkness_01",
+    "file_path": "assets/images/cyberpunk/darkness_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "grace",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "cyberpunk_grace_01",
+    "file_path": "assets/images/cyberpunk/grace_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "redemption",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "cyberpunk_redemption_01",
+    "file_path": "assets/images/cyberpunk/redemption_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "wrath",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "cyberpunk_wrath_01",
+    "file_path": "assets/images/cyberpunk/wrath_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "guidance",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "cyberpunk_guidance_01",
+    "file_path": "assets/images/cyberpunk/guidance_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "love",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "cyberpunk_love_01",
+    "file_path": "assets/images/cyberpunk/love_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "fear",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "cyberpunk_fear_01",
+    "file_path": "assets/images/cyberpunk/fear_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "joy",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "cyberpunk_joy_01",
+    "file_path": "assets/images/cyberpunk/joy_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "war",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "cyberpunk_war_01",
+    "file_path": "assets/images/cyberpunk/war_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "repentance",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "cyberpunk_repentance_01",
+    "file_path": "assets/images/cyberpunk/repentance_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "salvation",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "cyberpunk_salvation_01",
+    "file_path": "assets/images/cyberpunk/salvation_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "sacrifice",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "cyberpunk_sacrifice_01",
+    "file_path": "assets/images/cyberpunk/sacrifice_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "justice",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "cyberpunk_justice_01",
+    "file_path": "assets/images/cyberpunk/justice_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "wisdom",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "cyberpunk_wisdom_01",
+    "file_path": "assets/images/cyberpunk/wisdom_01.png"
+  },
+  {
+    "style": "cyberpunk",
+    "theme": "creation",
+    "prompt": "A cyberpunk scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "cyberpunk_creation_01",
+    "file_path": "assets/images/cyberpunk/creation_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "peace",
+    "prompt": "A renaissance scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "renaissance_peace_01",
+    "file_path": "assets/images/renaissance/peace_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "suffering",
+    "prompt": "A renaissance scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "renaissance_suffering_01",
+    "file_path": "assets/images/renaissance/suffering_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "hope",
+    "prompt": "A renaissance scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "renaissance_hope_01",
+    "file_path": "assets/images/renaissance/hope_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "judgment",
+    "prompt": "A renaissance scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "renaissance_judgment_01",
+    "file_path": "assets/images/renaissance/judgment_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "light",
+    "prompt": "A renaissance scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "renaissance_light_01",
+    "file_path": "assets/images/renaissance/light_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "darkness",
+    "prompt": "A renaissance scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "renaissance_darkness_01",
+    "file_path": "assets/images/renaissance/darkness_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "grace",
+    "prompt": "A renaissance scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "renaissance_grace_01",
+    "file_path": "assets/images/renaissance/grace_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "redemption",
+    "prompt": "A renaissance scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "renaissance_redemption_01",
+    "file_path": "assets/images/renaissance/redemption_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "wrath",
+    "prompt": "A renaissance scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "renaissance_wrath_01",
+    "file_path": "assets/images/renaissance/wrath_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "guidance",
+    "prompt": "A renaissance scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "renaissance_guidance_01",
+    "file_path": "assets/images/renaissance/guidance_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "love",
+    "prompt": "A renaissance scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "renaissance_love_01",
+    "file_path": "assets/images/renaissance/love_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "fear",
+    "prompt": "A renaissance scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "renaissance_fear_01",
+    "file_path": "assets/images/renaissance/fear_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "joy",
+    "prompt": "A renaissance scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "renaissance_joy_01",
+    "file_path": "assets/images/renaissance/joy_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "war",
+    "prompt": "A renaissance scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "renaissance_war_01",
+    "file_path": "assets/images/renaissance/war_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "repentance",
+    "prompt": "A renaissance scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "renaissance_repentance_01",
+    "file_path": "assets/images/renaissance/repentance_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "salvation",
+    "prompt": "A renaissance scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "renaissance_salvation_01",
+    "file_path": "assets/images/renaissance/salvation_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "sacrifice",
+    "prompt": "A renaissance scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "renaissance_sacrifice_01",
+    "file_path": "assets/images/renaissance/sacrifice_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "justice",
+    "prompt": "A renaissance scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "renaissance_justice_01",
+    "file_path": "assets/images/renaissance/justice_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "wisdom",
+    "prompt": "A renaissance scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "renaissance_wisdom_01",
+    "file_path": "assets/images/renaissance/wisdom_01.png"
+  },
+  {
+    "style": "renaissance",
+    "theme": "creation",
+    "prompt": "A renaissance scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "renaissance_creation_01",
+    "file_path": "assets/images/renaissance/creation_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "peace",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_peace_01",
+    "file_path": "assets/images/medieval_manuscript/peace_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "suffering",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_suffering_01",
+    "file_path": "assets/images/medieval_manuscript/suffering_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "hope",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_hope_01",
+    "file_path": "assets/images/medieval_manuscript/hope_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "judgment",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_judgment_01",
+    "file_path": "assets/images/medieval_manuscript/judgment_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "light",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_light_01",
+    "file_path": "assets/images/medieval_manuscript/light_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "darkness",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_darkness_01",
+    "file_path": "assets/images/medieval_manuscript/darkness_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "grace",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_grace_01",
+    "file_path": "assets/images/medieval_manuscript/grace_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "redemption",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_redemption_01",
+    "file_path": "assets/images/medieval_manuscript/redemption_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "wrath",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_wrath_01",
+    "file_path": "assets/images/medieval_manuscript/wrath_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "guidance",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_guidance_01",
+    "file_path": "assets/images/medieval_manuscript/guidance_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "love",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_love_01",
+    "file_path": "assets/images/medieval_manuscript/love_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "fear",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_fear_01",
+    "file_path": "assets/images/medieval_manuscript/fear_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "joy",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_joy_01",
+    "file_path": "assets/images/medieval_manuscript/joy_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "war",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_war_01",
+    "file_path": "assets/images/medieval_manuscript/war_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "repentance",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_repentance_01",
+    "file_path": "assets/images/medieval_manuscript/repentance_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "salvation",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_salvation_01",
+    "file_path": "assets/images/medieval_manuscript/salvation_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "sacrifice",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_sacrifice_01",
+    "file_path": "assets/images/medieval_manuscript/sacrifice_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "justice",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_justice_01",
+    "file_path": "assets/images/medieval_manuscript/justice_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "wisdom",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_wisdom_01",
+    "file_path": "assets/images/medieval_manuscript/wisdom_01.png"
+  },
+  {
+    "style": "medieval manuscript",
+    "theme": "creation",
+    "prompt": "A medieval manuscript scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "medieval_manuscript_creation_01",
+    "file_path": "assets/images/medieval_manuscript/creation_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "peace",
+    "prompt": "A line art scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "line_art_peace_01",
+    "file_path": "assets/images/line_art/peace_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "suffering",
+    "prompt": "A line art scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "line_art_suffering_01",
+    "file_path": "assets/images/line_art/suffering_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "hope",
+    "prompt": "A line art scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "line_art_hope_01",
+    "file_path": "assets/images/line_art/hope_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "judgment",
+    "prompt": "A line art scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "line_art_judgment_01",
+    "file_path": "assets/images/line_art/judgment_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "light",
+    "prompt": "A line art scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "line_art_light_01",
+    "file_path": "assets/images/line_art/light_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "darkness",
+    "prompt": "A line art scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "line_art_darkness_01",
+    "file_path": "assets/images/line_art/darkness_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "grace",
+    "prompt": "A line art scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "line_art_grace_01",
+    "file_path": "assets/images/line_art/grace_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "redemption",
+    "prompt": "A line art scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "line_art_redemption_01",
+    "file_path": "assets/images/line_art/redemption_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "wrath",
+    "prompt": "A line art scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "line_art_wrath_01",
+    "file_path": "assets/images/line_art/wrath_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "guidance",
+    "prompt": "A line art scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "line_art_guidance_01",
+    "file_path": "assets/images/line_art/guidance_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "love",
+    "prompt": "A line art scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "line_art_love_01",
+    "file_path": "assets/images/line_art/love_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "fear",
+    "prompt": "A line art scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "line_art_fear_01",
+    "file_path": "assets/images/line_art/fear_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "joy",
+    "prompt": "A line art scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "line_art_joy_01",
+    "file_path": "assets/images/line_art/joy_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "war",
+    "prompt": "A line art scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "line_art_war_01",
+    "file_path": "assets/images/line_art/war_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "repentance",
+    "prompt": "A line art scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "line_art_repentance_01",
+    "file_path": "assets/images/line_art/repentance_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "salvation",
+    "prompt": "A line art scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "line_art_salvation_01",
+    "file_path": "assets/images/line_art/salvation_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "sacrifice",
+    "prompt": "A line art scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "line_art_sacrifice_01",
+    "file_path": "assets/images/line_art/sacrifice_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "justice",
+    "prompt": "A line art scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "line_art_justice_01",
+    "file_path": "assets/images/line_art/justice_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "wisdom",
+    "prompt": "A line art scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "line_art_wisdom_01",
+    "file_path": "assets/images/line_art/wisdom_01.png"
+  },
+  {
+    "style": "line art",
+    "theme": "creation",
+    "prompt": "A line art scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "line_art_creation_01",
+    "file_path": "assets/images/line_art/creation_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "peace",
+    "prompt": "A woodcut scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "woodcut_peace_01",
+    "file_path": "assets/images/woodcut/peace_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "suffering",
+    "prompt": "A woodcut scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "woodcut_suffering_01",
+    "file_path": "assets/images/woodcut/suffering_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "hope",
+    "prompt": "A woodcut scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "woodcut_hope_01",
+    "file_path": "assets/images/woodcut/hope_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "judgment",
+    "prompt": "A woodcut scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "woodcut_judgment_01",
+    "file_path": "assets/images/woodcut/judgment_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "light",
+    "prompt": "A woodcut scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "woodcut_light_01",
+    "file_path": "assets/images/woodcut/light_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "darkness",
+    "prompt": "A woodcut scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "woodcut_darkness_01",
+    "file_path": "assets/images/woodcut/darkness_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "grace",
+    "prompt": "A woodcut scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "woodcut_grace_01",
+    "file_path": "assets/images/woodcut/grace_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "redemption",
+    "prompt": "A woodcut scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "woodcut_redemption_01",
+    "file_path": "assets/images/woodcut/redemption_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "wrath",
+    "prompt": "A woodcut scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "woodcut_wrath_01",
+    "file_path": "assets/images/woodcut/wrath_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "guidance",
+    "prompt": "A woodcut scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "woodcut_guidance_01",
+    "file_path": "assets/images/woodcut/guidance_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "love",
+    "prompt": "A woodcut scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "woodcut_love_01",
+    "file_path": "assets/images/woodcut/love_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "fear",
+    "prompt": "A woodcut scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "woodcut_fear_01",
+    "file_path": "assets/images/woodcut/fear_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "joy",
+    "prompt": "A woodcut scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "woodcut_joy_01",
+    "file_path": "assets/images/woodcut/joy_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "war",
+    "prompt": "A woodcut scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "woodcut_war_01",
+    "file_path": "assets/images/woodcut/war_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "repentance",
+    "prompt": "A woodcut scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "woodcut_repentance_01",
+    "file_path": "assets/images/woodcut/repentance_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "salvation",
+    "prompt": "A woodcut scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "woodcut_salvation_01",
+    "file_path": "assets/images/woodcut/salvation_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "sacrifice",
+    "prompt": "A woodcut scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "woodcut_sacrifice_01",
+    "file_path": "assets/images/woodcut/sacrifice_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "justice",
+    "prompt": "A woodcut scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "woodcut_justice_01",
+    "file_path": "assets/images/woodcut/justice_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "wisdom",
+    "prompt": "A woodcut scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "woodcut_wisdom_01",
+    "file_path": "assets/images/woodcut/wisdom_01.png"
+  },
+  {
+    "style": "woodcut",
+    "theme": "creation",
+    "prompt": "A woodcut scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "woodcut_creation_01",
+    "file_path": "assets/images/woodcut/creation_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "peace",
+    "prompt": "A minimalist scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "minimalist_peace_01",
+    "file_path": "assets/images/minimalist/peace_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "suffering",
+    "prompt": "A minimalist scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "minimalist_suffering_01",
+    "file_path": "assets/images/minimalist/suffering_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "hope",
+    "prompt": "A minimalist scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "minimalist_hope_01",
+    "file_path": "assets/images/minimalist/hope_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "judgment",
+    "prompt": "A minimalist scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "minimalist_judgment_01",
+    "file_path": "assets/images/minimalist/judgment_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "light",
+    "prompt": "A minimalist scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "minimalist_light_01",
+    "file_path": "assets/images/minimalist/light_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "darkness",
+    "prompt": "A minimalist scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "minimalist_darkness_01",
+    "file_path": "assets/images/minimalist/darkness_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "grace",
+    "prompt": "A minimalist scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "minimalist_grace_01",
+    "file_path": "assets/images/minimalist/grace_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "redemption",
+    "prompt": "A minimalist scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "minimalist_redemption_01",
+    "file_path": "assets/images/minimalist/redemption_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "wrath",
+    "prompt": "A minimalist scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "minimalist_wrath_01",
+    "file_path": "assets/images/minimalist/wrath_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "guidance",
+    "prompt": "A minimalist scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "minimalist_guidance_01",
+    "file_path": "assets/images/minimalist/guidance_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "love",
+    "prompt": "A minimalist scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "minimalist_love_01",
+    "file_path": "assets/images/minimalist/love_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "fear",
+    "prompt": "A minimalist scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "minimalist_fear_01",
+    "file_path": "assets/images/minimalist/fear_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "joy",
+    "prompt": "A minimalist scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "minimalist_joy_01",
+    "file_path": "assets/images/minimalist/joy_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "war",
+    "prompt": "A minimalist scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "minimalist_war_01",
+    "file_path": "assets/images/minimalist/war_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "repentance",
+    "prompt": "A minimalist scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "minimalist_repentance_01",
+    "file_path": "assets/images/minimalist/repentance_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "salvation",
+    "prompt": "A minimalist scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "minimalist_salvation_01",
+    "file_path": "assets/images/minimalist/salvation_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "sacrifice",
+    "prompt": "A minimalist scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "minimalist_sacrifice_01",
+    "file_path": "assets/images/minimalist/sacrifice_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "justice",
+    "prompt": "A minimalist scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "minimalist_justice_01",
+    "file_path": "assets/images/minimalist/justice_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "wisdom",
+    "prompt": "A minimalist scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "minimalist_wisdom_01",
+    "file_path": "assets/images/minimalist/wisdom_01.png"
+  },
+  {
+    "style": "minimalist",
+    "theme": "creation",
+    "prompt": "A minimalist scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "minimalist_creation_01",
+    "file_path": "assets/images/minimalist/creation_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "peace",
+    "prompt": "A surrealist scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "surrealist_peace_01",
+    "file_path": "assets/images/surrealist/peace_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "suffering",
+    "prompt": "A surrealist scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "surrealist_suffering_01",
+    "file_path": "assets/images/surrealist/suffering_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "hope",
+    "prompt": "A surrealist scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "surrealist_hope_01",
+    "file_path": "assets/images/surrealist/hope_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "judgment",
+    "prompt": "A surrealist scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "surrealist_judgment_01",
+    "file_path": "assets/images/surrealist/judgment_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "light",
+    "prompt": "A surrealist scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "surrealist_light_01",
+    "file_path": "assets/images/surrealist/light_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "darkness",
+    "prompt": "A surrealist scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "surrealist_darkness_01",
+    "file_path": "assets/images/surrealist/darkness_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "grace",
+    "prompt": "A surrealist scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "surrealist_grace_01",
+    "file_path": "assets/images/surrealist/grace_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "redemption",
+    "prompt": "A surrealist scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "surrealist_redemption_01",
+    "file_path": "assets/images/surrealist/redemption_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "wrath",
+    "prompt": "A surrealist scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "surrealist_wrath_01",
+    "file_path": "assets/images/surrealist/wrath_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "guidance",
+    "prompt": "A surrealist scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "surrealist_guidance_01",
+    "file_path": "assets/images/surrealist/guidance_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "love",
+    "prompt": "A surrealist scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "surrealist_love_01",
+    "file_path": "assets/images/surrealist/love_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "fear",
+    "prompt": "A surrealist scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "surrealist_fear_01",
+    "file_path": "assets/images/surrealist/fear_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "joy",
+    "prompt": "A surrealist scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "surrealist_joy_01",
+    "file_path": "assets/images/surrealist/joy_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "war",
+    "prompt": "A surrealist scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "surrealist_war_01",
+    "file_path": "assets/images/surrealist/war_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "repentance",
+    "prompt": "A surrealist scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "surrealist_repentance_01",
+    "file_path": "assets/images/surrealist/repentance_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "salvation",
+    "prompt": "A surrealist scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "surrealist_salvation_01",
+    "file_path": "assets/images/surrealist/salvation_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "sacrifice",
+    "prompt": "A surrealist scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "surrealist_sacrifice_01",
+    "file_path": "assets/images/surrealist/sacrifice_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "justice",
+    "prompt": "A surrealist scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "surrealist_justice_01",
+    "file_path": "assets/images/surrealist/justice_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "wisdom",
+    "prompt": "A surrealist scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "surrealist_wisdom_01",
+    "file_path": "assets/images/surrealist/wisdom_01.png"
+  },
+  {
+    "style": "surrealist",
+    "theme": "creation",
+    "prompt": "A surrealist scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "surrealist_creation_01",
+    "file_path": "assets/images/surrealist/creation_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "peace",
+    "prompt": "A vaporwave scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "vaporwave_peace_01",
+    "file_path": "assets/images/vaporwave/peace_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "suffering",
+    "prompt": "A vaporwave scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "vaporwave_suffering_01",
+    "file_path": "assets/images/vaporwave/suffering_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "hope",
+    "prompt": "A vaporwave scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "vaporwave_hope_01",
+    "file_path": "assets/images/vaporwave/hope_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "judgment",
+    "prompt": "A vaporwave scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "vaporwave_judgment_01",
+    "file_path": "assets/images/vaporwave/judgment_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "light",
+    "prompt": "A vaporwave scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "vaporwave_light_01",
+    "file_path": "assets/images/vaporwave/light_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "darkness",
+    "prompt": "A vaporwave scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "vaporwave_darkness_01",
+    "file_path": "assets/images/vaporwave/darkness_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "grace",
+    "prompt": "A vaporwave scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "vaporwave_grace_01",
+    "file_path": "assets/images/vaporwave/grace_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "redemption",
+    "prompt": "A vaporwave scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "vaporwave_redemption_01",
+    "file_path": "assets/images/vaporwave/redemption_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "wrath",
+    "prompt": "A vaporwave scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "vaporwave_wrath_01",
+    "file_path": "assets/images/vaporwave/wrath_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "guidance",
+    "prompt": "A vaporwave scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "vaporwave_guidance_01",
+    "file_path": "assets/images/vaporwave/guidance_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "love",
+    "prompt": "A vaporwave scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "vaporwave_love_01",
+    "file_path": "assets/images/vaporwave/love_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "fear",
+    "prompt": "A vaporwave scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "vaporwave_fear_01",
+    "file_path": "assets/images/vaporwave/fear_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "joy",
+    "prompt": "A vaporwave scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "vaporwave_joy_01",
+    "file_path": "assets/images/vaporwave/joy_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "war",
+    "prompt": "A vaporwave scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "vaporwave_war_01",
+    "file_path": "assets/images/vaporwave/war_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "repentance",
+    "prompt": "A vaporwave scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "vaporwave_repentance_01",
+    "file_path": "assets/images/vaporwave/repentance_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "salvation",
+    "prompt": "A vaporwave scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "vaporwave_salvation_01",
+    "file_path": "assets/images/vaporwave/salvation_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "sacrifice",
+    "prompt": "A vaporwave scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "vaporwave_sacrifice_01",
+    "file_path": "assets/images/vaporwave/sacrifice_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "justice",
+    "prompt": "A vaporwave scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "vaporwave_justice_01",
+    "file_path": "assets/images/vaporwave/justice_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "wisdom",
+    "prompt": "A vaporwave scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "vaporwave_wisdom_01",
+    "file_path": "assets/images/vaporwave/wisdom_01.png"
+  },
+  {
+    "style": "vaporwave",
+    "theme": "creation",
+    "prompt": "A vaporwave scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "vaporwave_creation_01",
+    "file_path": "assets/images/vaporwave/creation_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "peace",
+    "prompt": "A impressionist scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "impressionist_peace_01",
+    "file_path": "assets/images/impressionist/peace_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "suffering",
+    "prompt": "A impressionist scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "impressionist_suffering_01",
+    "file_path": "assets/images/impressionist/suffering_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "hope",
+    "prompt": "A impressionist scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "impressionist_hope_01",
+    "file_path": "assets/images/impressionist/hope_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "judgment",
+    "prompt": "A impressionist scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "impressionist_judgment_01",
+    "file_path": "assets/images/impressionist/judgment_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "light",
+    "prompt": "A impressionist scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "impressionist_light_01",
+    "file_path": "assets/images/impressionist/light_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "darkness",
+    "prompt": "A impressionist scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "impressionist_darkness_01",
+    "file_path": "assets/images/impressionist/darkness_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "grace",
+    "prompt": "A impressionist scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "impressionist_grace_01",
+    "file_path": "assets/images/impressionist/grace_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "redemption",
+    "prompt": "A impressionist scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "impressionist_redemption_01",
+    "file_path": "assets/images/impressionist/redemption_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "wrath",
+    "prompt": "A impressionist scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "impressionist_wrath_01",
+    "file_path": "assets/images/impressionist/wrath_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "guidance",
+    "prompt": "A impressionist scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "impressionist_guidance_01",
+    "file_path": "assets/images/impressionist/guidance_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "love",
+    "prompt": "A impressionist scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "impressionist_love_01",
+    "file_path": "assets/images/impressionist/love_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "fear",
+    "prompt": "A impressionist scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "impressionist_fear_01",
+    "file_path": "assets/images/impressionist/fear_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "joy",
+    "prompt": "A impressionist scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "impressionist_joy_01",
+    "file_path": "assets/images/impressionist/joy_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "war",
+    "prompt": "A impressionist scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "impressionist_war_01",
+    "file_path": "assets/images/impressionist/war_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "repentance",
+    "prompt": "A impressionist scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "impressionist_repentance_01",
+    "file_path": "assets/images/impressionist/repentance_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "salvation",
+    "prompt": "A impressionist scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "impressionist_salvation_01",
+    "file_path": "assets/images/impressionist/salvation_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "sacrifice",
+    "prompt": "A impressionist scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "impressionist_sacrifice_01",
+    "file_path": "assets/images/impressionist/sacrifice_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "justice",
+    "prompt": "A impressionist scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "impressionist_justice_01",
+    "file_path": "assets/images/impressionist/justice_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "wisdom",
+    "prompt": "A impressionist scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "impressionist_wisdom_01",
+    "file_path": "assets/images/impressionist/wisdom_01.png"
+  },
+  {
+    "style": "impressionist",
+    "theme": "creation",
+    "prompt": "A impressionist scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "impressionist_creation_01",
+    "file_path": "assets/images/impressionist/creation_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "peace",
+    "prompt": "A dreamlike scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "dreamlike_peace_01",
+    "file_path": "assets/images/dreamlike/peace_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "suffering",
+    "prompt": "A dreamlike scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "dreamlike_suffering_01",
+    "file_path": "assets/images/dreamlike/suffering_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "hope",
+    "prompt": "A dreamlike scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "dreamlike_hope_01",
+    "file_path": "assets/images/dreamlike/hope_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "judgment",
+    "prompt": "A dreamlike scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "dreamlike_judgment_01",
+    "file_path": "assets/images/dreamlike/judgment_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "light",
+    "prompt": "A dreamlike scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "dreamlike_light_01",
+    "file_path": "assets/images/dreamlike/light_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "darkness",
+    "prompt": "A dreamlike scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "dreamlike_darkness_01",
+    "file_path": "assets/images/dreamlike/darkness_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "grace",
+    "prompt": "A dreamlike scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "dreamlike_grace_01",
+    "file_path": "assets/images/dreamlike/grace_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "redemption",
+    "prompt": "A dreamlike scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "dreamlike_redemption_01",
+    "file_path": "assets/images/dreamlike/redemption_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "wrath",
+    "prompt": "A dreamlike scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "dreamlike_wrath_01",
+    "file_path": "assets/images/dreamlike/wrath_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "guidance",
+    "prompt": "A dreamlike scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "dreamlike_guidance_01",
+    "file_path": "assets/images/dreamlike/guidance_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "love",
+    "prompt": "A dreamlike scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "dreamlike_love_01",
+    "file_path": "assets/images/dreamlike/love_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "fear",
+    "prompt": "A dreamlike scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "dreamlike_fear_01",
+    "file_path": "assets/images/dreamlike/fear_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "joy",
+    "prompt": "A dreamlike scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "dreamlike_joy_01",
+    "file_path": "assets/images/dreamlike/joy_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "war",
+    "prompt": "A dreamlike scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "dreamlike_war_01",
+    "file_path": "assets/images/dreamlike/war_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "repentance",
+    "prompt": "A dreamlike scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "dreamlike_repentance_01",
+    "file_path": "assets/images/dreamlike/repentance_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "salvation",
+    "prompt": "A dreamlike scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "dreamlike_salvation_01",
+    "file_path": "assets/images/dreamlike/salvation_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "sacrifice",
+    "prompt": "A dreamlike scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "dreamlike_sacrifice_01",
+    "file_path": "assets/images/dreamlike/sacrifice_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "justice",
+    "prompt": "A dreamlike scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "dreamlike_justice_01",
+    "file_path": "assets/images/dreamlike/justice_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "wisdom",
+    "prompt": "A dreamlike scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "dreamlike_wisdom_01",
+    "file_path": "assets/images/dreamlike/wisdom_01.png"
+  },
+  {
+    "style": "dreamlike",
+    "theme": "creation",
+    "prompt": "A dreamlike scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "dreamlike_creation_01",
+    "file_path": "assets/images/dreamlike/creation_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "peace",
+    "prompt": "A noir scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "noir_peace_01",
+    "file_path": "assets/images/noir/peace_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "suffering",
+    "prompt": "A noir scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "noir_suffering_01",
+    "file_path": "assets/images/noir/suffering_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "hope",
+    "prompt": "A noir scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "noir_hope_01",
+    "file_path": "assets/images/noir/hope_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "judgment",
+    "prompt": "A noir scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "noir_judgment_01",
+    "file_path": "assets/images/noir/judgment_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "light",
+    "prompt": "A noir scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "noir_light_01",
+    "file_path": "assets/images/noir/light_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "darkness",
+    "prompt": "A noir scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "noir_darkness_01",
+    "file_path": "assets/images/noir/darkness_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "grace",
+    "prompt": "A noir scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "noir_grace_01",
+    "file_path": "assets/images/noir/grace_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "redemption",
+    "prompt": "A noir scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "noir_redemption_01",
+    "file_path": "assets/images/noir/redemption_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "wrath",
+    "prompt": "A noir scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "noir_wrath_01",
+    "file_path": "assets/images/noir/wrath_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "guidance",
+    "prompt": "A noir scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "noir_guidance_01",
+    "file_path": "assets/images/noir/guidance_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "love",
+    "prompt": "A noir scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "noir_love_01",
+    "file_path": "assets/images/noir/love_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "fear",
+    "prompt": "A noir scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "noir_fear_01",
+    "file_path": "assets/images/noir/fear_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "joy",
+    "prompt": "A noir scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "noir_joy_01",
+    "file_path": "assets/images/noir/joy_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "war",
+    "prompt": "A noir scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "noir_war_01",
+    "file_path": "assets/images/noir/war_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "repentance",
+    "prompt": "A noir scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "noir_repentance_01",
+    "file_path": "assets/images/noir/repentance_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "salvation",
+    "prompt": "A noir scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "noir_salvation_01",
+    "file_path": "assets/images/noir/salvation_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "sacrifice",
+    "prompt": "A noir scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "noir_sacrifice_01",
+    "file_path": "assets/images/noir/sacrifice_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "justice",
+    "prompt": "A noir scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "noir_justice_01",
+    "file_path": "assets/images/noir/justice_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "wisdom",
+    "prompt": "A noir scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "noir_wisdom_01",
+    "file_path": "assets/images/noir/wisdom_01.png"
+  },
+  {
+    "style": "noir",
+    "theme": "creation",
+    "prompt": "A noir scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "noir_creation_01",
+    "file_path": "assets/images/noir/creation_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "peace",
+    "prompt": "A baroque scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "baroque_peace_01",
+    "file_path": "assets/images/baroque/peace_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "suffering",
+    "prompt": "A baroque scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "baroque_suffering_01",
+    "file_path": "assets/images/baroque/suffering_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "hope",
+    "prompt": "A baroque scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "baroque_hope_01",
+    "file_path": "assets/images/baroque/hope_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "judgment",
+    "prompt": "A baroque scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "baroque_judgment_01",
+    "file_path": "assets/images/baroque/judgment_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "light",
+    "prompt": "A baroque scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "baroque_light_01",
+    "file_path": "assets/images/baroque/light_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "darkness",
+    "prompt": "A baroque scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "baroque_darkness_01",
+    "file_path": "assets/images/baroque/darkness_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "grace",
+    "prompt": "A baroque scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "baroque_grace_01",
+    "file_path": "assets/images/baroque/grace_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "redemption",
+    "prompt": "A baroque scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "baroque_redemption_01",
+    "file_path": "assets/images/baroque/redemption_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "wrath",
+    "prompt": "A baroque scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "baroque_wrath_01",
+    "file_path": "assets/images/baroque/wrath_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "guidance",
+    "prompt": "A baroque scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "baroque_guidance_01",
+    "file_path": "assets/images/baroque/guidance_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "love",
+    "prompt": "A baroque scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "baroque_love_01",
+    "file_path": "assets/images/baroque/love_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "fear",
+    "prompt": "A baroque scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "baroque_fear_01",
+    "file_path": "assets/images/baroque/fear_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "joy",
+    "prompt": "A baroque scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "baroque_joy_01",
+    "file_path": "assets/images/baroque/joy_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "war",
+    "prompt": "A baroque scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "baroque_war_01",
+    "file_path": "assets/images/baroque/war_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "repentance",
+    "prompt": "A baroque scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "baroque_repentance_01",
+    "file_path": "assets/images/baroque/repentance_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "salvation",
+    "prompt": "A baroque scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "baroque_salvation_01",
+    "file_path": "assets/images/baroque/salvation_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "sacrifice",
+    "prompt": "A baroque scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "baroque_sacrifice_01",
+    "file_path": "assets/images/baroque/sacrifice_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "justice",
+    "prompt": "A baroque scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "baroque_justice_01",
+    "file_path": "assets/images/baroque/justice_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "wisdom",
+    "prompt": "A baroque scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "baroque_wisdom_01",
+    "file_path": "assets/images/baroque/wisdom_01.png"
+  },
+  {
+    "style": "baroque",
+    "theme": "creation",
+    "prompt": "A baroque scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "baroque_creation_01",
+    "file_path": "assets/images/baroque/creation_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "peace",
+    "prompt": "A stained glass scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "stained_glass_peace_01",
+    "file_path": "assets/images/stained_glass/peace_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "suffering",
+    "prompt": "A stained glass scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "stained_glass_suffering_01",
+    "file_path": "assets/images/stained_glass/suffering_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "hope",
+    "prompt": "A stained glass scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "stained_glass_hope_01",
+    "file_path": "assets/images/stained_glass/hope_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "judgment",
+    "prompt": "A stained glass scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "stained_glass_judgment_01",
+    "file_path": "assets/images/stained_glass/judgment_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "light",
+    "prompt": "A stained glass scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "stained_glass_light_01",
+    "file_path": "assets/images/stained_glass/light_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "darkness",
+    "prompt": "A stained glass scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "stained_glass_darkness_01",
+    "file_path": "assets/images/stained_glass/darkness_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "grace",
+    "prompt": "A stained glass scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "stained_glass_grace_01",
+    "file_path": "assets/images/stained_glass/grace_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "redemption",
+    "prompt": "A stained glass scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "stained_glass_redemption_01",
+    "file_path": "assets/images/stained_glass/redemption_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "wrath",
+    "prompt": "A stained glass scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "stained_glass_wrath_01",
+    "file_path": "assets/images/stained_glass/wrath_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "guidance",
+    "prompt": "A stained glass scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "stained_glass_guidance_01",
+    "file_path": "assets/images/stained_glass/guidance_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "love",
+    "prompt": "A stained glass scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "stained_glass_love_01",
+    "file_path": "assets/images/stained_glass/love_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "fear",
+    "prompt": "A stained glass scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "stained_glass_fear_01",
+    "file_path": "assets/images/stained_glass/fear_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "joy",
+    "prompt": "A stained glass scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "stained_glass_joy_01",
+    "file_path": "assets/images/stained_glass/joy_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "war",
+    "prompt": "A stained glass scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "stained_glass_war_01",
+    "file_path": "assets/images/stained_glass/war_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "repentance",
+    "prompt": "A stained glass scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "stained_glass_repentance_01",
+    "file_path": "assets/images/stained_glass/repentance_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "salvation",
+    "prompt": "A stained glass scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "stained_glass_salvation_01",
+    "file_path": "assets/images/stained_glass/salvation_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "sacrifice",
+    "prompt": "A stained glass scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "stained_glass_sacrifice_01",
+    "file_path": "assets/images/stained_glass/sacrifice_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "justice",
+    "prompt": "A stained glass scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "stained_glass_justice_01",
+    "file_path": "assets/images/stained_glass/justice_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "wisdom",
+    "prompt": "A stained glass scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "stained_glass_wisdom_01",
+    "file_path": "assets/images/stained_glass/wisdom_01.png"
+  },
+  {
+    "style": "stained glass",
+    "theme": "creation",
+    "prompt": "A stained glass scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "stained_glass_creation_01",
+    "file_path": "assets/images/stained_glass/creation_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "peace",
+    "prompt": "A mosaic scene illustrating the biblical theme of peace, high quality, cinematic detail",
+    "image_id": "mosaic_peace_01",
+    "file_path": "assets/images/mosaic/peace_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "suffering",
+    "prompt": "A mosaic scene illustrating the biblical theme of suffering, high quality, cinematic detail",
+    "image_id": "mosaic_suffering_01",
+    "file_path": "assets/images/mosaic/suffering_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "hope",
+    "prompt": "A mosaic scene illustrating the biblical theme of hope, high quality, cinematic detail",
+    "image_id": "mosaic_hope_01",
+    "file_path": "assets/images/mosaic/hope_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "judgment",
+    "prompt": "A mosaic scene illustrating the biblical theme of judgment, high quality, cinematic detail",
+    "image_id": "mosaic_judgment_01",
+    "file_path": "assets/images/mosaic/judgment_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "light",
+    "prompt": "A mosaic scene illustrating the biblical theme of light, high quality, cinematic detail",
+    "image_id": "mosaic_light_01",
+    "file_path": "assets/images/mosaic/light_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "darkness",
+    "prompt": "A mosaic scene illustrating the biblical theme of darkness, high quality, cinematic detail",
+    "image_id": "mosaic_darkness_01",
+    "file_path": "assets/images/mosaic/darkness_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "grace",
+    "prompt": "A mosaic scene illustrating the biblical theme of grace, high quality, cinematic detail",
+    "image_id": "mosaic_grace_01",
+    "file_path": "assets/images/mosaic/grace_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "redemption",
+    "prompt": "A mosaic scene illustrating the biblical theme of redemption, high quality, cinematic detail",
+    "image_id": "mosaic_redemption_01",
+    "file_path": "assets/images/mosaic/redemption_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "wrath",
+    "prompt": "A mosaic scene illustrating the biblical theme of wrath, high quality, cinematic detail",
+    "image_id": "mosaic_wrath_01",
+    "file_path": "assets/images/mosaic/wrath_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "guidance",
+    "prompt": "A mosaic scene illustrating the biblical theme of guidance, high quality, cinematic detail",
+    "image_id": "mosaic_guidance_01",
+    "file_path": "assets/images/mosaic/guidance_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "love",
+    "prompt": "A mosaic scene illustrating the biblical theme of love, high quality, cinematic detail",
+    "image_id": "mosaic_love_01",
+    "file_path": "assets/images/mosaic/love_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "fear",
+    "prompt": "A mosaic scene illustrating the biblical theme of fear, high quality, cinematic detail",
+    "image_id": "mosaic_fear_01",
+    "file_path": "assets/images/mosaic/fear_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "joy",
+    "prompt": "A mosaic scene illustrating the biblical theme of joy, high quality, cinematic detail",
+    "image_id": "mosaic_joy_01",
+    "file_path": "assets/images/mosaic/joy_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "war",
+    "prompt": "A mosaic scene illustrating the biblical theme of war, high quality, cinematic detail",
+    "image_id": "mosaic_war_01",
+    "file_path": "assets/images/mosaic/war_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "repentance",
+    "prompt": "A mosaic scene illustrating the biblical theme of repentance, high quality, cinematic detail",
+    "image_id": "mosaic_repentance_01",
+    "file_path": "assets/images/mosaic/repentance_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "salvation",
+    "prompt": "A mosaic scene illustrating the biblical theme of salvation, high quality, cinematic detail",
+    "image_id": "mosaic_salvation_01",
+    "file_path": "assets/images/mosaic/salvation_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "sacrifice",
+    "prompt": "A mosaic scene illustrating the biblical theme of sacrifice, high quality, cinematic detail",
+    "image_id": "mosaic_sacrifice_01",
+    "file_path": "assets/images/mosaic/sacrifice_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "justice",
+    "prompt": "A mosaic scene illustrating the biblical theme of justice, high quality, cinematic detail",
+    "image_id": "mosaic_justice_01",
+    "file_path": "assets/images/mosaic/justice_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "wisdom",
+    "prompt": "A mosaic scene illustrating the biblical theme of wisdom, high quality, cinematic detail",
+    "image_id": "mosaic_wisdom_01",
+    "file_path": "assets/images/mosaic/wisdom_01.png"
+  },
+  {
+    "style": "mosaic",
+    "theme": "creation",
+    "prompt": "A mosaic scene illustrating the biblical theme of creation, high quality, cinematic detail",
+    "image_id": "mosaic_creation_01",
+    "file_path": "assets/images/mosaic/creation_01.png"
+  }
+]
