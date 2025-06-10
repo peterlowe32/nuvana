@@ -1,0 +1,602 @@
+[
+  {
+    "theme": "peace",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus calming the storm on the Sea of Galilee, serene water, gentle clouds, peaceful horizon, open sky, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "peace",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus calming the storm on the Sea of Galilee, serene water, gentle clouds, peaceful horizon, open sky, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "peace",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus calming the storm on the Sea of Galilee, serene water, gentle clouds, peaceful horizon, open sky, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "peace",
+    "style": "animated",
+    "prompt": "animated style, Jesus calming the storm on the Sea of Galilee, serene water, gentle clouds, peaceful horizon, open sky, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "peace",
+    "style": "watercolor",
+    "prompt": "watercolor style, Jesus calming the storm on the Sea of Galilee, serene water, gentle clouds, peaceful horizon, open sky, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "peace",
+    "style": "realistic",
+    "prompt": "realistic style, Jesus calming the storm on the Sea of Galilee, serene water, gentle clouds, peaceful horizon, open sky, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "suffering",
+    "style": "8-bit",
+    "prompt": "8-bit style, Christ carrying the cross, pain and struggle in his eyes, heavy shadows, winding road to Golgotha, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "suffering",
+    "style": "mosaic",
+    "prompt": "mosaic style, Christ carrying the cross, pain and struggle in his eyes, heavy shadows, winding road to Golgotha, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "suffering",
+    "style": "renaissance",
+    "prompt": "renaissance style, Christ carrying the cross, pain and struggle in his eyes, heavy shadows, winding road to Golgotha, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "suffering",
+    "style": "animated",
+    "prompt": "animated style, Christ carrying the cross, pain and struggle in his eyes, heavy shadows, winding road to Golgotha, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "suffering",
+    "style": "watercolor",
+    "prompt": "watercolor style, Christ carrying the cross, pain and struggle in his eyes, heavy shadows, winding road to Golgotha, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "suffering",
+    "style": "realistic",
+    "prompt": "realistic style, Christ carrying the cross, pain and struggle in his eyes, heavy shadows, winding road to Golgotha, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "hope",
+    "style": "8-bit",
+    "prompt": "8-bit style, The empty tomb at dawn, sunlight breaking over the stone, angel standing near, blooming flowers, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "hope",
+    "style": "mosaic",
+    "prompt": "mosaic style, The empty tomb at dawn, sunlight breaking over the stone, angel standing near, blooming flowers, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "hope",
+    "style": "renaissance",
+    "prompt": "renaissance style, The empty tomb at dawn, sunlight breaking over the stone, angel standing near, blooming flowers, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "hope",
+    "style": "animated",
+    "prompt": "animated style, The empty tomb at dawn, sunlight breaking over the stone, angel standing near, blooming flowers, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "hope",
+    "style": "watercolor",
+    "prompt": "watercolor style, The empty tomb at dawn, sunlight breaking over the stone, angel standing near, blooming flowers, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "hope",
+    "style": "realistic",
+    "prompt": "realistic style, The empty tomb at dawn, sunlight breaking over the stone, angel standing near, blooming flowers, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "judgment",
+    "style": "8-bit",
+    "prompt": "8-bit style, Final judgment scene with a radiant throne, books opened, people gathered in awe, divine light casting long shadows, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "judgment",
+    "style": "mosaic",
+    "prompt": "mosaic style, Final judgment scene with a radiant throne, books opened, people gathered in awe, divine light casting long shadows, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "judgment",
+    "style": "renaissance",
+    "prompt": "renaissance style, Final judgment scene with a radiant throne, books opened, people gathered in awe, divine light casting long shadows, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "judgment",
+    "style": "animated",
+    "prompt": "animated style, Final judgment scene with a radiant throne, books opened, people gathered in awe, divine light casting long shadows, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "judgment",
+    "style": "watercolor",
+    "prompt": "watercolor style, Final judgment scene with a radiant throne, books opened, people gathered in awe, divine light casting long shadows, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "judgment",
+    "style": "realistic",
+    "prompt": "realistic style, Final judgment scene with a radiant throne, books opened, people gathered in awe, divine light casting long shadows, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "light",
+    "style": "8-bit",
+    "prompt": "8-bit style, Let there be light moment from Genesis, divine rays breaking through cosmic void, celestial imagery, radiant atmosphere, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "light",
+    "style": "mosaic",
+    "prompt": "mosaic style, Let there be light moment from Genesis, divine rays breaking through cosmic void, celestial imagery, radiant atmosphere, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "light",
+    "style": "renaissance",
+    "prompt": "renaissance style, Let there be light moment from Genesis, divine rays breaking through cosmic void, celestial imagery, radiant atmosphere, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "light",
+    "style": "animated",
+    "prompt": "animated style, Let there be light moment from Genesis, divine rays breaking through cosmic void, celestial imagery, radiant atmosphere, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "light",
+    "style": "watercolor",
+    "prompt": "watercolor style, Let there be light moment from Genesis, divine rays breaking through cosmic void, celestial imagery, radiant atmosphere, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "light",
+    "style": "realistic",
+    "prompt": "realistic style, Let there be light moment from Genesis, divine rays breaking through cosmic void, celestial imagery, radiant atmosphere, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "darkness",
+    "style": "8-bit",
+    "prompt": "8-bit style, Garden of Gethsemane at night, moonlight through olive trees, shadowed figure praying, sense of anguish, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "darkness",
+    "style": "mosaic",
+    "prompt": "mosaic style, Garden of Gethsemane at night, moonlight through olive trees, shadowed figure praying, sense of anguish, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "darkness",
+    "style": "renaissance",
+    "prompt": "renaissance style, Garden of Gethsemane at night, moonlight through olive trees, shadowed figure praying, sense of anguish, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "darkness",
+    "style": "animated",
+    "prompt": "animated style, Garden of Gethsemane at night, moonlight through olive trees, shadowed figure praying, sense of anguish, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "darkness",
+    "style": "watercolor",
+    "prompt": "watercolor style, Garden of Gethsemane at night, moonlight through olive trees, shadowed figure praying, sense of anguish, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "darkness",
+    "style": "realistic",
+    "prompt": "realistic style, Garden of Gethsemane at night, moonlight through olive trees, shadowed figure praying, sense of anguish, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "grace",
+    "style": "8-bit",
+    "prompt": "8-bit style, The prodigal son embraced by his father, countryside background, emotional warmth, sunlight washing over the scene, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "grace",
+    "style": "mosaic",
+    "prompt": "mosaic style, The prodigal son embraced by his father, countryside background, emotional warmth, sunlight washing over the scene, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "grace",
+    "style": "renaissance",
+    "prompt": "renaissance style, The prodigal son embraced by his father, countryside background, emotional warmth, sunlight washing over the scene, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "grace",
+    "style": "animated",
+    "prompt": "animated style, The prodigal son embraced by his father, countryside background, emotional warmth, sunlight washing over the scene, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "grace",
+    "style": "watercolor",
+    "prompt": "watercolor style, The prodigal son embraced by his father, countryside background, emotional warmth, sunlight washing over the scene, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "grace",
+    "style": "realistic",
+    "prompt": "realistic style, The prodigal son embraced by his father, countryside background, emotional warmth, sunlight washing over the scene, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "redemption",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus speaking with the thief on the cross, crucifixion hill, darkened sky, glimpse of hope, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "redemption",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus speaking with the thief on the cross, crucifixion hill, darkened sky, glimpse of hope, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "redemption",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus speaking with the thief on the cross, crucifixion hill, darkened sky, glimpse of hope, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "redemption",
+    "style": "animated",
+    "prompt": "animated style, Jesus speaking with the thief on the cross, crucifixion hill, darkened sky, glimpse of hope, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "redemption",
+    "style": "watercolor",
+    "prompt": "watercolor style, Jesus speaking with the thief on the cross, crucifixion hill, darkened sky, glimpse of hope, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "redemption",
+    "style": "realistic",
+    "prompt": "realistic style, Jesus speaking with the thief on the cross, crucifixion hill, darkened sky, glimpse of hope, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wrath",
+    "style": "8-bit",
+    "prompt": "8-bit style, The plagues of Egypt, dark skies, swarms of locusts, ominous tone, powerful divine fury, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wrath",
+    "style": "mosaic",
+    "prompt": "mosaic style, The plagues of Egypt, dark skies, swarms of locusts, ominous tone, powerful divine fury, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wrath",
+    "style": "renaissance",
+    "prompt": "renaissance style, The plagues of Egypt, dark skies, swarms of locusts, ominous tone, powerful divine fury, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wrath",
+    "style": "animated",
+    "prompt": "animated style, The plagues of Egypt, dark skies, swarms of locusts, ominous tone, powerful divine fury, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wrath",
+    "style": "watercolor",
+    "prompt": "watercolor style, The plagues of Egypt, dark skies, swarms of locusts, ominous tone, powerful divine fury, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wrath",
+    "style": "realistic",
+    "prompt": "realistic style, The plagues of Egypt, dark skies, swarms of locusts, ominous tone, powerful divine fury, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "guidance",
+    "style": "8-bit",
+    "prompt": "8-bit style, Moses parting the Red Sea, clear path through the water, leading the Israelites, dynamic perspective, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "guidance",
+    "style": "mosaic",
+    "prompt": "mosaic style, Moses parting the Red Sea, clear path through the water, leading the Israelites, dynamic perspective, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "guidance",
+    "style": "renaissance",
+    "prompt": "renaissance style, Moses parting the Red Sea, clear path through the water, leading the Israelites, dynamic perspective, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "guidance",
+    "style": "animated",
+    "prompt": "animated style, Moses parting the Red Sea, clear path through the water, leading the Israelites, dynamic perspective, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "guidance",
+    "style": "watercolor",
+    "prompt": "watercolor style, Moses parting the Red Sea, clear path through the water, leading the Israelites, dynamic perspective, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "guidance",
+    "style": "realistic",
+    "prompt": "realistic style, Moses parting the Red Sea, clear path through the water, leading the Israelites, dynamic perspective, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "love",
+    "style": "8-bit",
+    "prompt": "8-bit style, The Good Samaritan helping the wounded man, path winding through hills, compassionate facial expression, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "love",
+    "style": "mosaic",
+    "prompt": "mosaic style, The Good Samaritan helping the wounded man, path winding through hills, compassionate facial expression, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "love",
+    "style": "renaissance",
+    "prompt": "renaissance style, The Good Samaritan helping the wounded man, path winding through hills, compassionate facial expression, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "love",
+    "style": "animated",
+    "prompt": "animated style, The Good Samaritan helping the wounded man, path winding through hills, compassionate facial expression, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "love",
+    "style": "watercolor",
+    "prompt": "watercolor style, The Good Samaritan helping the wounded man, path winding through hills, compassionate facial expression, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "love",
+    "style": "realistic",
+    "prompt": "realistic style, The Good Samaritan helping the wounded man, path winding through hills, compassionate facial expression, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "fear",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jonah in the belly of the great fish, stormy sea, intense emotion, darkness pierced by light, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "fear",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jonah in the belly of the great fish, stormy sea, intense emotion, darkness pierced by light, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "fear",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jonah in the belly of the great fish, stormy sea, intense emotion, darkness pierced by light, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "fear",
+    "style": "animated",
+    "prompt": "animated style, Jonah in the belly of the great fish, stormy sea, intense emotion, darkness pierced by light, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "fear",
+    "style": "watercolor",
+    "prompt": "watercolor style, Jonah in the belly of the great fish, stormy sea, intense emotion, darkness pierced by light, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "fear",
+    "style": "realistic",
+    "prompt": "realistic style, Jonah in the belly of the great fish, stormy sea, intense emotion, darkness pierced by light, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "joy",
+    "style": "8-bit",
+    "prompt": "8-bit style, The return of the ark of the covenant, people dancing with tambourines, vibrant colors and festivity, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "joy",
+    "style": "mosaic",
+    "prompt": "mosaic style, The return of the ark of the covenant, people dancing with tambourines, vibrant colors and festivity, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "joy",
+    "style": "renaissance",
+    "prompt": "renaissance style, The return of the ark of the covenant, people dancing with tambourines, vibrant colors and festivity, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "joy",
+    "style": "animated",
+    "prompt": "animated style, The return of the ark of the covenant, people dancing with tambourines, vibrant colors and festivity, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "joy",
+    "style": "watercolor",
+    "prompt": "watercolor style, The return of the ark of the covenant, people dancing with tambourines, vibrant colors and festivity, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "joy",
+    "style": "realistic",
+    "prompt": "realistic style, The return of the ark of the covenant, people dancing with tambourines, vibrant colors and festivity, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "war",
+    "style": "8-bit",
+    "prompt": "8-bit style, David facing Goliath, battlefield tension, slingshot ready, giant looming in background, dramatic biblical moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "war",
+    "style": "mosaic",
+    "prompt": "mosaic style, David facing Goliath, battlefield tension, slingshot ready, giant looming in background, dramatic biblical moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "war",
+    "style": "renaissance",
+    "prompt": "renaissance style, David facing Goliath, battlefield tension, slingshot ready, giant looming in background, dramatic biblical moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "war",
+    "style": "animated",
+    "prompt": "animated style, David facing Goliath, battlefield tension, slingshot ready, giant looming in background, dramatic biblical moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "war",
+    "style": "watercolor",
+    "prompt": "watercolor style, David facing Goliath, battlefield tension, slingshot ready, giant looming in background, dramatic biblical moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "war",
+    "style": "realistic",
+    "prompt": "realistic style, David facing Goliath, battlefield tension, slingshot ready, giant looming in background, dramatic biblical moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "repentance",
+    "style": "8-bit",
+    "prompt": "8-bit style, King David in sackcloth, kneeling in candlelight, Psalms scroll nearby, deeply emotional moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "repentance",
+    "style": "mosaic",
+    "prompt": "mosaic style, King David in sackcloth, kneeling in candlelight, Psalms scroll nearby, deeply emotional moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "repentance",
+    "style": "renaissance",
+    "prompt": "renaissance style, King David in sackcloth, kneeling in candlelight, Psalms scroll nearby, deeply emotional moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "repentance",
+    "style": "animated",
+    "prompt": "animated style, King David in sackcloth, kneeling in candlelight, Psalms scroll nearby, deeply emotional moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "repentance",
+    "style": "watercolor",
+    "prompt": "watercolor style, King David in sackcloth, kneeling in candlelight, Psalms scroll nearby, deeply emotional moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "repentance",
+    "style": "realistic",
+    "prompt": "realistic style, King David in sackcloth, kneeling in candlelight, Psalms scroll nearby, deeply emotional moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "salvation",
+    "style": "8-bit",
+    "prompt": "8-bit style, The Lamb of God on a hill with light pouring down, cross faintly in background, heavenly glow, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "salvation",
+    "style": "mosaic",
+    "prompt": "mosaic style, The Lamb of God on a hill with light pouring down, cross faintly in background, heavenly glow, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "salvation",
+    "style": "renaissance",
+    "prompt": "renaissance style, The Lamb of God on a hill with light pouring down, cross faintly in background, heavenly glow, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "salvation",
+    "style": "animated",
+    "prompt": "animated style, The Lamb of God on a hill with light pouring down, cross faintly in background, heavenly glow, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "salvation",
+    "style": "watercolor",
+    "prompt": "watercolor style, The Lamb of God on a hill with light pouring down, cross faintly in background, heavenly glow, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "salvation",
+    "style": "realistic",
+    "prompt": "realistic style, The Lamb of God on a hill with light pouring down, cross faintly in background, heavenly glow, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "8-bit",
+    "prompt": "8-bit style, Abraham with Isaac on Mount Moriah, angel intervening, dramatic lighting, tense sacred moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "mosaic",
+    "prompt": "mosaic style, Abraham with Isaac on Mount Moriah, angel intervening, dramatic lighting, tense sacred moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "renaissance",
+    "prompt": "renaissance style, Abraham with Isaac on Mount Moriah, angel intervening, dramatic lighting, tense sacred moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "animated",
+    "prompt": "animated style, Abraham with Isaac on Mount Moriah, angel intervening, dramatic lighting, tense sacred moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "watercolor",
+    "prompt": "watercolor style, Abraham with Isaac on Mount Moriah, angel intervening, dramatic lighting, tense sacred moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "realistic",
+    "prompt": "realistic style, Abraham with Isaac on Mount Moriah, angel intervening, dramatic lighting, tense sacred moment, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "justice",
+    "style": "8-bit",
+    "prompt": "8-bit style, Scales of justice held by divine figure, light and shadow balance, ancient scrolls, heavenly court background, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "justice",
+    "style": "mosaic",
+    "prompt": "mosaic style, Scales of justice held by divine figure, light and shadow balance, ancient scrolls, heavenly court background, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "justice",
+    "style": "renaissance",
+    "prompt": "renaissance style, Scales of justice held by divine figure, light and shadow balance, ancient scrolls, heavenly court background, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "justice",
+    "style": "animated",
+    "prompt": "animated style, Scales of justice held by divine figure, light and shadow balance, ancient scrolls, heavenly court background, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "justice",
+    "style": "watercolor",
+    "prompt": "watercolor style, Scales of justice held by divine figure, light and shadow balance, ancient scrolls, heavenly court background, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "justice",
+    "style": "realistic",
+    "prompt": "realistic style, Scales of justice held by divine figure, light and shadow balance, ancient scrolls, heavenly court background, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wisdom",
+    "style": "8-bit",
+    "prompt": "8-bit style, Solomon seated with scrolls, temple in background, owl and lamp nearby, tranquil setting, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wisdom",
+    "style": "mosaic",
+    "prompt": "mosaic style, Solomon seated with scrolls, temple in background, owl and lamp nearby, tranquil setting, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wisdom",
+    "style": "renaissance",
+    "prompt": "renaissance style, Solomon seated with scrolls, temple in background, owl and lamp nearby, tranquil setting, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wisdom",
+    "style": "animated",
+    "prompt": "animated style, Solomon seated with scrolls, temple in background, owl and lamp nearby, tranquil setting, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wisdom",
+    "style": "watercolor",
+    "prompt": "watercolor style, Solomon seated with scrolls, temple in background, owl and lamp nearby, tranquil setting, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "wisdom",
+    "style": "realistic",
+    "prompt": "realistic style, Solomon seated with scrolls, temple in background, owl and lamp nearby, tranquil setting, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "creation",
+    "style": "8-bit",
+    "prompt": "8-bit style, Genesis creation of the world, Earth from space forming in divine hands, stars and oceans taking shape, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "creation",
+    "style": "mosaic",
+    "prompt": "mosaic style, Genesis creation of the world, Earth from space forming in divine hands, stars and oceans taking shape, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "creation",
+    "style": "renaissance",
+    "prompt": "renaissance style, Genesis creation of the world, Earth from space forming in divine hands, stars and oceans taking shape, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "creation",
+    "style": "animated",
+    "prompt": "animated style, Genesis creation of the world, Earth from space forming in divine hands, stars and oceans taking shape, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "creation",
+    "style": "watercolor",
+    "prompt": "watercolor style, Genesis creation of the world, Earth from space forming in divine hands, stars and oceans taking shape, negative space in upper third for scripture text"
+  },
+  {
+    "theme": "creation",
+    "style": "realistic",
+    "prompt": "realistic style, Genesis creation of the world, Earth from space forming in divine hands, stars and oceans taking shape, negative space in upper third for scripture text"
+  }
+]
