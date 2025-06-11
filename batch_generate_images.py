@@ -3,7 +3,7 @@ import base64
 import os
 import requests
 
-API_URL = "https://2c96674ddcadf2714e.gradio.live/sdapi/v1/txt2img"
+API_URL = "https://796cc7eb6dfd9218ed.gradio.live/sdapi/v1/txt2img"
 PRESETS_FILE = "verse_image_metadata.json"
 OUTPUT_FOLDER = "generated_images"
 IMAGE_WIDTH = 1004
