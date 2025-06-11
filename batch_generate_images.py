@@ -1,42 +1,43 @@
-import json
-import os
-import base64
 import requests
+import json
+import base64
+import os
 
-# Load metadata
+# Ensure the output folder exists
+os.makedirs("generated_images", exist_ok=True)
+
+# Load metadata list (array of objects)
 with open("verse_image_metadata.json", "r") as f:
     metadata = json.load(f)
 
-# Output directory
-output_dir = "generated_images"
-os.makedirs(output_dir, exist_ok=True)
+# Loop through each image definition
+for entry in metadata:
+    prompt = entry["prompt"]
+    image_id = entry["image_id"]
 
-# RunPod API endpoint
-endpoint = " https://3128d98fa8a9e038c3.gradio.live/sdapi/txt2img"
-headers = {"Content-Type": "application/json"}
-
-# Generate images
-for item in metadata:
-    prompt = f"{item['style']} style, {item['prompt']}"
-    image_id = item["image_id"]
     print(f"🔹 Generating image {image_id} with prompt: {prompt}")
 
     payload = {
         "prompt": prompt,
-        "steps": 25,
-        "width": 512,
-        "height": 320,
-        "sampler_index": "Euler a"
+        "steps": 20,
+        "width": 1024,
+        "height": 576
     }
 
     try:
-        response = requests.post(endpoint, headers=headers, json=payload)
+        response = requests.post(
+            "https://329a12bccbb4c8c279.gradio.live/sdapi/v1/txt2img",  # Your public SD endpoint
+            headers={"Content-Type": "application/json"},
+            json=payload
+        )
         response.raise_for_status()
-        image_data = response.json()["images"][0]
-        image_bytes = base64.b64decode(image_data)
 
-        with open(os.path.join(output_dir, f"{image_id}.png"), "wb") as img_file:
-            img_file.write(image_bytes)
+        image_base64 = response.json()["images"][0]
+        image_bytes = base64.b64decode(image_base64)
 
+        with open(f"generated_images/{image_id}.png", "wb") as f:
+            f.write(image_bytes)
+
+        print(f"✅ Saved {image_id}.png")
     except Exception as e:
-        print(f"❌ Failed to generate image {image_id}: {e}")
+        print(f"❌ Failed to generate {image_id}: {e}")
