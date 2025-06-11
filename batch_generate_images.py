@@ -1,43 +1,57 @@
-import requests
 import json
 import base64
 import os
+import requests
 
-# Ensure the output folder exists
-os.makedirs("generated_images", exist_ok=True)
+API_URL = "https://484c8b0a03c9911717.gradio.live/sdapi/v1/txt2img"
+PRESETS_FILE = "verse_image_metadata.json"
+OUTPUT_FOLDER = "generated_images"
+IMAGE_WIDTH = 1004
+IMAGE_HEIGHT = 583
 
-# Load metadata list (array of objects)
-with open("verse_image_metadata.json", "r") as f:
-    metadata = json.load(f)
+# Ensure output folder exists
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-# Loop through each image definition
-for entry in metadata:
-    prompt = entry["prompt"]
-    image_id = entry["image_id"]
+# Load the preset prompts
+with open(PRESETS_FILE, "r") as f:
+    presets = json.load(f)
 
-    print(f"🔹 Generating image {image_id} with prompt: {prompt}")
+for preset in presets:
+    theme = preset["theme"]
+    style = preset["style"]
+    prompt = f"{style} style, {theme} background with biblical symbolism"
 
-    payload = {
-        "prompt": prompt,
-        "steps": 20,
-        "width": 1024,
-        "height": 576
-    }
+    file_name = f"{theme}_{style}.png".replace(" ", "_").lower()
+    file_path = os.path.join(OUTPUT_FOLDER, file_name)
+
+    if os.path.exists(file_path):
+        print(f"✅ Already exists: {file_name} — skipping.")
+        continue
+
+    print(f"🔹 Generating image for: {theme} [{style}]")
 
     try:
         response = requests.post(
-            "https://329a12bccbb4c8c279.gradio.live/sdapi/v1/txt2img",  # Your public SD endpoint
+            API_URL,
             headers={"Content-Type": "application/json"},
-            json=payload
+            json={
+                "prompt": prompt,
+                "steps": 25,
+                "width": IMAGE_WIDTH,
+                "height": IMAGE_HEIGHT,
+                "sampler_index": "Euler a"
+            },
+            timeout=60
         )
         response.raise_for_status()
 
-        image_base64 = response.json()["images"][0]
-        image_bytes = base64.b64decode(image_base64)
+        image_data = response.json()["images"][0]
+        image_bytes = base64.b64decode(image_data)
 
-        with open(f"generated_images/{image_id}.png", "wb") as f:
+        with open(file_path, "wb") as f:
             f.write(image_bytes)
 
-        print(f"✅ Saved {image_id}.png")
+        print(f"✅ Saved: {file_name}")
+
     except Exception as e:
-        print(f"❌ Failed to generate {image_id}: {e}")
+        print(f"❌ Error generating image for {theme} [{style}]: {e}")
