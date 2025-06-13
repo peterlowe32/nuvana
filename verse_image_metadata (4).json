@@ -1,0 +1,3802 @@
+[
+  {
+    "theme": "fear",
+    "style": "stained glass",
+    "prompt": "stained glass style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "stained glass",
+    "prompt": "stained glass style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "mosaic",
+    "prompt": "mosaic style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "mosaic",
+    "prompt": "mosaic style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "baroque",
+    "prompt": "baroque style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "baroque",
+    "prompt": "baroque style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "noir",
+    "prompt": "noir style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "noir",
+    "prompt": "noir style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "impressionist",
+    "prompt": "impressionist style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "impressionist",
+    "prompt": "impressionist style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "surrealist",
+    "prompt": "surrealist style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "surrealist",
+    "prompt": "surrealist style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "minimalist",
+    "prompt": "minimalist style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "minimalist",
+    "prompt": "minimalist style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "woodcut",
+    "prompt": "woodcut style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "woodcut",
+    "prompt": "woodcut style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "line art",
+    "prompt": "line art style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "line art",
+    "prompt": "line art style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "renaissance",
+    "prompt": "renaissance style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "renaissance",
+    "prompt": "renaissance style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "anime",
+    "prompt": "anime style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "anime",
+    "prompt": "anime style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "pixel art",
+    "prompt": "pixel art style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "pixel art",
+    "prompt": "pixel art style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "8-bit",
+    "prompt": "8-bit style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "8-bit",
+    "prompt": "8-bit style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "oil painting",
+    "prompt": "oil painting style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "oil painting",
+    "prompt": "oil painting style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "fear",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Moses trembling before the burning bush in the desert, sandals removed, eyes wide in awe, light radiating from the flames"
+  },
+  {
+    "theme": "fear",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Zechariah frozen in fear before the angel in the temple, incense smoke swirling, golden lampstands casting shadows"
+  },
+  {
+    "theme": "hope",
+    "style": "stained glass",
+    "prompt": "stained glass style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "stained glass",
+    "prompt": "stained glass style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "mosaic",
+    "prompt": "mosaic style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "mosaic",
+    "prompt": "mosaic style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "baroque",
+    "prompt": "baroque style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "baroque",
+    "prompt": "baroque style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "noir",
+    "prompt": "noir style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "noir",
+    "prompt": "noir style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "impressionist",
+    "prompt": "impressionist style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "impressionist",
+    "prompt": "impressionist style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "surrealist",
+    "prompt": "surrealist style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "surrealist",
+    "prompt": "surrealist style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "minimalist",
+    "prompt": "minimalist style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "minimalist",
+    "prompt": "minimalist style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "woodcut",
+    "prompt": "woodcut style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "woodcut",
+    "prompt": "woodcut style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "line art",
+    "prompt": "line art style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "line art",
+    "prompt": "line art style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "renaissance",
+    "prompt": "renaissance style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "renaissance",
+    "prompt": "renaissance style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "anime",
+    "prompt": "anime style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "anime",
+    "prompt": "anime style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "pixel art",
+    "prompt": "pixel art style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "pixel art",
+    "prompt": "pixel art style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "8-bit",
+    "prompt": "8-bit style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "8-bit",
+    "prompt": "8-bit style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "oil painting",
+    "prompt": "oil painting style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "oil painting",
+    "prompt": "oil painting style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "hope",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Noah gazing at the rainbow after the flood, his family beside him, the ark resting on dry land with animals nearby"
+  },
+  {
+    "theme": "hope",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Hannah praying fervently in the temple, light shining through high windows as Eli observes silently"
+  },
+  {
+    "theme": "judgment",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "stained glass",
+    "prompt": "stained glass style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "mosaic",
+    "prompt": "mosaic style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "baroque",
+    "prompt": "baroque style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "noir",
+    "prompt": "noir style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "noir",
+    "prompt": "noir style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "impressionist",
+    "prompt": "impressionist style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "surrealist",
+    "prompt": "surrealist style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "minimalist",
+    "prompt": "minimalist style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "woodcut",
+    "prompt": "woodcut style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "line art",
+    "prompt": "line art style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "line art",
+    "prompt": "line art style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "renaissance",
+    "prompt": "renaissance style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "anime",
+    "prompt": "anime style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "anime",
+    "prompt": "anime style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "pixel art",
+    "prompt": "pixel art style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "8-bit",
+    "prompt": "8-bit style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "oil painting",
+    "prompt": "oil painting style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "judgment",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus overturning tables in the temple, coins scattering, doves flying, Pharisees shocked and angry"
+  },
+  {
+    "theme": "judgment",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, The writing on the wall in Belshazzar's feast, guests frozen mid-revelry, divine hand glowing over stone"
+  },
+  {
+    "theme": "grace",
+    "style": "stained glass",
+    "prompt": "stained glass style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "mosaic",
+    "prompt": "mosaic style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "baroque",
+    "prompt": "baroque style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "noir",
+    "prompt": "noir style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "noir",
+    "prompt": "noir style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "impressionist",
+    "prompt": "impressionist style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "surrealist",
+    "prompt": "surrealist style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "minimalist",
+    "prompt": "minimalist style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "woodcut",
+    "prompt": "woodcut style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "line art",
+    "prompt": "line art style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "line art",
+    "prompt": "line art style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "renaissance",
+    "prompt": "renaissance style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "anime",
+    "prompt": "anime style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "anime",
+    "prompt": "anime style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "pixel art",
+    "prompt": "pixel art style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "8-bit",
+    "prompt": "8-bit style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "oil painting",
+    "prompt": "oil painting style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "grace",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, The prodigal son embraced by his father, tattered clothes, emotional reunion at a rural home"
+  },
+  {
+    "theme": "grace",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus healing the leper, crowd watching in awe as the man kneels, light illuminating his restored face"
+  },
+  {
+    "theme": "suffering",
+    "style": "stained glass",
+    "prompt": "stained glass style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "stained glass",
+    "prompt": "stained glass style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "mosaic",
+    "prompt": "mosaic style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "mosaic",
+    "prompt": "mosaic style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "baroque",
+    "prompt": "baroque style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "baroque",
+    "prompt": "baroque style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "noir",
+    "prompt": "noir style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "noir",
+    "prompt": "noir style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "impressionist",
+    "prompt": "impressionist style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "impressionist",
+    "prompt": "impressionist style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "surrealist",
+    "prompt": "surrealist style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "surrealist",
+    "prompt": "surrealist style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "minimalist",
+    "prompt": "minimalist style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "minimalist",
+    "prompt": "minimalist style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "woodcut",
+    "prompt": "woodcut style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "woodcut",
+    "prompt": "woodcut style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "line art",
+    "prompt": "line art style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "line art",
+    "prompt": "line art style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "renaissance",
+    "prompt": "renaissance style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "renaissance",
+    "prompt": "renaissance style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "anime",
+    "prompt": "anime style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "anime",
+    "prompt": "anime style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "pixel art",
+    "prompt": "pixel art style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "pixel art",
+    "prompt": "pixel art style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "8-bit",
+    "prompt": "8-bit style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "8-bit",
+    "prompt": "8-bit style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "oil painting",
+    "prompt": "oil painting style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "oil painting",
+    "prompt": "oil painting style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "suffering",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Job sitting on ashes scraping sores, friends looking on, stormy sky and broken house behind"
+  },
+  {
+    "theme": "suffering",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Paul imprisoned, writing a letter by candlelight, chains on his wrist, peaceful face despite hardship"
+  },
+  {
+    "theme": "peace",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "stained glass",
+    "prompt": "stained glass style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "mosaic",
+    "prompt": "mosaic style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "baroque",
+    "prompt": "baroque style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "noir",
+    "prompt": "noir style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "noir",
+    "prompt": "noir style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "impressionist",
+    "prompt": "impressionist style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "surrealist",
+    "prompt": "surrealist style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "minimalist",
+    "prompt": "minimalist style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "woodcut",
+    "prompt": "woodcut style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "line art",
+    "prompt": "line art style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "line art",
+    "prompt": "line art style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "renaissance",
+    "prompt": "renaissance style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "anime",
+    "prompt": "anime style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "anime",
+    "prompt": "anime style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "pixel art",
+    "prompt": "pixel art style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "8-bit",
+    "prompt": "8-bit style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "oil painting",
+    "prompt": "oil painting style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "peace",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus asleep in the boat amid a storm, disciples panicked, waves towering around them"
+  },
+  {
+    "theme": "peace",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, David playing harp for Saul, golden light filling the palace, Saul relaxing as demons flee"
+  },
+  {
+    "theme": "redemption",
+    "style": "stained glass",
+    "prompt": "stained glass style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "stained glass",
+    "prompt": "stained glass style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "mosaic",
+    "prompt": "mosaic style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "mosaic",
+    "prompt": "mosaic style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "baroque",
+    "prompt": "baroque style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "baroque",
+    "prompt": "baroque style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "noir",
+    "prompt": "noir style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "noir",
+    "prompt": "noir style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "impressionist",
+    "prompt": "impressionist style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "impressionist",
+    "prompt": "impressionist style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "surrealist",
+    "prompt": "surrealist style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "surrealist",
+    "prompt": "surrealist style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "minimalist",
+    "prompt": "minimalist style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "minimalist",
+    "prompt": "minimalist style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "woodcut",
+    "prompt": "woodcut style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "woodcut",
+    "prompt": "woodcut style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "line art",
+    "prompt": "line art style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "line art",
+    "prompt": "line art style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "renaissance",
+    "prompt": "renaissance style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "renaissance",
+    "prompt": "renaissance style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "anime",
+    "prompt": "anime style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "anime",
+    "prompt": "anime style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "pixel art",
+    "prompt": "pixel art style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "pixel art",
+    "prompt": "pixel art style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "8-bit",
+    "prompt": "8-bit style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "8-bit",
+    "prompt": "8-bit style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "oil painting",
+    "prompt": "oil painting style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "oil painting",
+    "prompt": "oil painting style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "redemption",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Peter weeping after the rooster crows, moonlight over Jerusalem, cloak pulled tight as he hides"
+  },
+  {
+    "theme": "redemption",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Ruth gathering grain in Boaz\u2019s field, soft sunlight, gentle look exchanged between them"
+  },
+  {
+    "theme": "light",
+    "style": "stained glass",
+    "prompt": "stained glass style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "stained glass",
+    "prompt": "stained glass style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "mosaic",
+    "prompt": "mosaic style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "mosaic",
+    "prompt": "mosaic style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "baroque",
+    "prompt": "baroque style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "baroque",
+    "prompt": "baroque style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "noir",
+    "prompt": "noir style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "noir",
+    "prompt": "noir style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "impressionist",
+    "prompt": "impressionist style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "impressionist",
+    "prompt": "impressionist style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "surrealist",
+    "prompt": "surrealist style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "surrealist",
+    "prompt": "surrealist style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "minimalist",
+    "prompt": "minimalist style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "minimalist",
+    "prompt": "minimalist style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "woodcut",
+    "prompt": "woodcut style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "woodcut",
+    "prompt": "woodcut style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "line art",
+    "prompt": "line art style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "line art",
+    "prompt": "line art style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "renaissance",
+    "prompt": "renaissance style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "renaissance",
+    "prompt": "renaissance style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "anime",
+    "prompt": "anime style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "anime",
+    "prompt": "anime style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "pixel art",
+    "prompt": "pixel art style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "pixel art",
+    "prompt": "pixel art style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "8-bit",
+    "prompt": "8-bit style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "8-bit",
+    "prompt": "8-bit style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "oil painting",
+    "prompt": "oil painting style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "oil painting",
+    "prompt": "oil painting style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "light",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Creation of light in Genesis, divine hand parting darkness with golden radiance emerging"
+  },
+  {
+    "theme": "light",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Angels appearing to shepherds at night, bright light illuminating field and flocks"
+  },
+  {
+    "theme": "darkness",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "stained glass",
+    "prompt": "stained glass style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "mosaic",
+    "prompt": "mosaic style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "baroque",
+    "prompt": "baroque style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "noir",
+    "prompt": "noir style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "noir",
+    "prompt": "noir style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "impressionist",
+    "prompt": "impressionist style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "surrealist",
+    "prompt": "surrealist style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "minimalist",
+    "prompt": "minimalist style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "woodcut",
+    "prompt": "woodcut style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "line art",
+    "prompt": "line art style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "line art",
+    "prompt": "line art style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "renaissance",
+    "prompt": "renaissance style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "anime",
+    "prompt": "anime style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "anime",
+    "prompt": "anime style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "pixel art",
+    "prompt": "pixel art style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "8-bit",
+    "prompt": "8-bit style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "oil painting",
+    "prompt": "oil painting style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "darkness",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus praying in Gethsemane, shadowed trees, sweat like blood, distant torches approaching"
+  },
+  {
+    "theme": "darkness",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Egypt during the plague of darkness, people stumbling blindly while Israelites' homes glow"
+  },
+  {
+    "theme": "love",
+    "style": "stained glass",
+    "prompt": "stained glass style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "mosaic",
+    "prompt": "mosaic style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "baroque",
+    "prompt": "baroque style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "baroque",
+    "prompt": "baroque style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "noir",
+    "prompt": "noir style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "noir",
+    "prompt": "noir style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "impressionist",
+    "prompt": "impressionist style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "surrealist",
+    "prompt": "surrealist style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "minimalist",
+    "prompt": "minimalist style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "woodcut",
+    "prompt": "woodcut style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "line art",
+    "prompt": "line art style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "line art",
+    "prompt": "line art style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "renaissance",
+    "prompt": "renaissance style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "anime",
+    "prompt": "anime style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "anime",
+    "prompt": "anime style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "pixel art",
+    "prompt": "pixel art style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "8-bit",
+    "prompt": "8-bit style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "oil painting",
+    "prompt": "oil painting style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "love",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Mary anointing Jesus' feet, tearful gratitude, disciples whispering, perfume filling the air"
+  },
+  {
+    "theme": "love",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jonathan giving his robe and sword to David, covenant friendship under blue sky"
+  },
+  {
+    "theme": "wrath",
+    "style": "stained glass",
+    "prompt": "stained glass style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "mosaic",
+    "prompt": "mosaic style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "baroque",
+    "prompt": "baroque style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "noir",
+    "prompt": "noir style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "noir",
+    "prompt": "noir style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "impressionist",
+    "prompt": "impressionist style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "surrealist",
+    "prompt": "surrealist style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "minimalist",
+    "prompt": "minimalist style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "woodcut",
+    "prompt": "woodcut style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "line art",
+    "prompt": "line art style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "line art",
+    "prompt": "line art style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "renaissance",
+    "prompt": "renaissance style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "anime",
+    "prompt": "anime style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "anime",
+    "prompt": "anime style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "pixel art",
+    "prompt": "pixel art style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "8-bit",
+    "prompt": "8-bit style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "oil painting",
+    "prompt": "oil painting style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "wrath",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, The Red Sea crashing down on Pharaoh\u2019s army, horses rearing, chaos in swirling waves"
+  },
+  {
+    "theme": "wrath",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus describing the final judgment, sheep and goats separated on glowing hills"
+  },
+  {
+    "theme": "guidance",
+    "style": "stained glass",
+    "prompt": "stained glass style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "stained glass",
+    "prompt": "stained glass style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "mosaic",
+    "prompt": "mosaic style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "mosaic",
+    "prompt": "mosaic style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "baroque",
+    "prompt": "baroque style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "baroque",
+    "prompt": "baroque style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "noir",
+    "prompt": "noir style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "noir",
+    "prompt": "noir style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "impressionist",
+    "prompt": "impressionist style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "impressionist",
+    "prompt": "impressionist style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "surrealist",
+    "prompt": "surrealist style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "surrealist",
+    "prompt": "surrealist style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "minimalist",
+    "prompt": "minimalist style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "minimalist",
+    "prompt": "minimalist style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "woodcut",
+    "prompt": "woodcut style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "woodcut",
+    "prompt": "woodcut style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "line art",
+    "prompt": "line art style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "line art",
+    "prompt": "line art style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "renaissance",
+    "prompt": "renaissance style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "renaissance",
+    "prompt": "renaissance style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "anime",
+    "prompt": "anime style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "anime",
+    "prompt": "anime style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "pixel art",
+    "prompt": "pixel art style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "pixel art",
+    "prompt": "pixel art style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "8-bit",
+    "prompt": "8-bit style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "8-bit",
+    "prompt": "8-bit style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "oil painting",
+    "prompt": "oil painting style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "oil painting",
+    "prompt": "oil painting style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "guidance",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Pillar of fire leading Israelites through desert night, tents glowing faintly behind"
+  },
+  {
+    "theme": "guidance",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Philip walking with the Ethiopian eunuch, scroll open, chariot in the wilderness"
+  },
+  {
+    "theme": "salvation",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "stained glass",
+    "prompt": "stained glass style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "mosaic",
+    "prompt": "mosaic style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "baroque",
+    "prompt": "baroque style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "noir",
+    "prompt": "noir style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "noir",
+    "prompt": "noir style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "impressionist",
+    "prompt": "impressionist style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "surrealist",
+    "prompt": "surrealist style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "minimalist",
+    "prompt": "minimalist style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "woodcut",
+    "prompt": "woodcut style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "line art",
+    "prompt": "line art style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "line art",
+    "prompt": "line art style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "renaissance",
+    "prompt": "renaissance style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "anime",
+    "prompt": "anime style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "anime",
+    "prompt": "anime style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "pixel art",
+    "prompt": "pixel art style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "8-bit",
+    "prompt": "8-bit style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "oil painting",
+    "prompt": "oil painting style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "salvation",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus on the cross, sky darkened, temple veil ripping, Roman soldier awestruck"
+  },
+  {
+    "theme": "salvation",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Rahab helping Israelite spies escape, red cord hanging from her window"
+  },
+  {
+    "theme": "justice",
+    "style": "stained glass",
+    "prompt": "stained glass style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "stained glass",
+    "prompt": "stained glass style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "mosaic",
+    "prompt": "mosaic style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "mosaic",
+    "prompt": "mosaic style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "baroque",
+    "prompt": "baroque style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "baroque",
+    "prompt": "baroque style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "noir",
+    "prompt": "noir style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "noir",
+    "prompt": "noir style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "impressionist",
+    "prompt": "impressionist style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "impressionist",
+    "prompt": "impressionist style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "surrealist",
+    "prompt": "surrealist style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "surrealist",
+    "prompt": "surrealist style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "minimalist",
+    "prompt": "minimalist style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "minimalist",
+    "prompt": "minimalist style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "woodcut",
+    "prompt": "woodcut style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "woodcut",
+    "prompt": "woodcut style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "line art",
+    "prompt": "line art style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "line art",
+    "prompt": "line art style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "renaissance",
+    "prompt": "renaissance style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "renaissance",
+    "prompt": "renaissance style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "anime",
+    "prompt": "anime style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "anime",
+    "prompt": "anime style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "pixel art",
+    "prompt": "pixel art style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "pixel art",
+    "prompt": "pixel art style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "8-bit",
+    "prompt": "8-bit style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "8-bit",
+    "prompt": "8-bit style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "oil painting",
+    "prompt": "oil painting style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "oil painting",
+    "prompt": "oil painting style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "justice",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Solomon judging the two mothers, ornate throne room, guards tense, sword raised"
+  },
+  {
+    "theme": "justice",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Deborah under the palm tree, tribes gathered to hear her ruling"
+  },
+  {
+    "theme": "wisdom",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "stained glass",
+    "prompt": "stained glass style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "mosaic",
+    "prompt": "mosaic style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "baroque",
+    "prompt": "baroque style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "noir",
+    "prompt": "noir style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "noir",
+    "prompt": "noir style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "impressionist",
+    "prompt": "impressionist style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "surrealist",
+    "prompt": "surrealist style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "minimalist",
+    "prompt": "minimalist style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "woodcut",
+    "prompt": "woodcut style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "line art",
+    "prompt": "line art style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "line art",
+    "prompt": "line art style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "renaissance",
+    "prompt": "renaissance style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "anime",
+    "prompt": "anime style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "anime",
+    "prompt": "anime style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "pixel art",
+    "prompt": "pixel art style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "8-bit",
+    "prompt": "8-bit style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "oil painting",
+    "prompt": "oil painting style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "wisdom",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus teaching in the temple as a child, elders amazed, scrolls laid open before them"
+  },
+  {
+    "theme": "wisdom",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Proverbs writer at candlelight, thoughtful expression, books and ink beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "stained glass",
+    "prompt": "stained glass style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "stained glass",
+    "prompt": "stained glass style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "mosaic",
+    "prompt": "mosaic style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "mosaic",
+    "prompt": "mosaic style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "baroque",
+    "prompt": "baroque style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "baroque",
+    "prompt": "baroque style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "noir",
+    "prompt": "noir style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "noir",
+    "prompt": "noir style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "impressionist",
+    "prompt": "impressionist style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "impressionist",
+    "prompt": "impressionist style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "surrealist",
+    "prompt": "surrealist style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "surrealist",
+    "prompt": "surrealist style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "minimalist",
+    "prompt": "minimalist style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "minimalist",
+    "prompt": "minimalist style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "woodcut",
+    "prompt": "woodcut style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "woodcut",
+    "prompt": "woodcut style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "line art",
+    "prompt": "line art style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "line art",
+    "prompt": "line art style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "renaissance",
+    "prompt": "renaissance style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "renaissance",
+    "prompt": "renaissance style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "anime",
+    "prompt": "anime style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "anime",
+    "prompt": "anime style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "pixel art",
+    "prompt": "pixel art style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "pixel art",
+    "prompt": "pixel art style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "8-bit",
+    "prompt": "8-bit style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "8-bit",
+    "prompt": "8-bit style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "oil painting",
+    "prompt": "oil painting style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "oil painting",
+    "prompt": "oil painting style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "repentance",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, David kneeling in sackcloth, ashes on his head, psalms beside him"
+  },
+  {
+    "theme": "repentance",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Ninevites in rags praying in the street, Jonah watching from afar under withered vine"
+  },
+  {
+    "theme": "creation",
+    "style": "stained glass",
+    "prompt": "stained glass style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "stained glass",
+    "prompt": "stained glass style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "mosaic",
+    "prompt": "mosaic style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "mosaic",
+    "prompt": "mosaic style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "baroque",
+    "prompt": "baroque style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "baroque",
+    "prompt": "baroque style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "noir",
+    "prompt": "noir style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "noir",
+    "prompt": "noir style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "impressionist",
+    "prompt": "impressionist style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "impressionist",
+    "prompt": "impressionist style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "surrealist",
+    "prompt": "surrealist style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "surrealist",
+    "prompt": "surrealist style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "minimalist",
+    "prompt": "minimalist style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "minimalist",
+    "prompt": "minimalist style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "woodcut",
+    "prompt": "woodcut style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "woodcut",
+    "prompt": "woodcut style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "line art",
+    "prompt": "line art style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "line art",
+    "prompt": "line art style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "renaissance",
+    "prompt": "renaissance style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "renaissance",
+    "prompt": "renaissance style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "anime",
+    "prompt": "anime style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "anime",
+    "prompt": "anime style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "pixel art",
+    "prompt": "pixel art style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "pixel art",
+    "prompt": "pixel art style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "8-bit",
+    "prompt": "8-bit style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "8-bit",
+    "prompt": "8-bit style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "oil painting",
+    "prompt": "oil painting style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "oil painting",
+    "prompt": "oil painting style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "creation",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Adam and Eve in Eden, animals peacefully nearby, rivers and trees bursting with life"
+  },
+  {
+    "theme": "creation",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, God forming Adam from clay, divine light outlining human shape on lush ground"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "stained glass",
+    "prompt": "stained glass style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "stained glass",
+    "prompt": "stained glass style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "mosaic",
+    "prompt": "mosaic style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "mosaic",
+    "prompt": "mosaic style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "baroque",
+    "prompt": "baroque style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "baroque",
+    "prompt": "baroque style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "noir",
+    "prompt": "noir style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "noir",
+    "prompt": "noir style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "impressionist",
+    "prompt": "impressionist style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "impressionist",
+    "prompt": "impressionist style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "surrealist",
+    "prompt": "surrealist style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "surrealist",
+    "prompt": "surrealist style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "minimalist",
+    "prompt": "minimalist style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "minimalist",
+    "prompt": "minimalist style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "woodcut",
+    "prompt": "woodcut style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "woodcut",
+    "prompt": "woodcut style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "line art",
+    "prompt": "line art style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "line art",
+    "prompt": "line art style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "renaissance",
+    "prompt": "renaissance style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "renaissance",
+    "prompt": "renaissance style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "anime",
+    "prompt": "anime style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "anime",
+    "prompt": "anime style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "pixel art",
+    "prompt": "pixel art style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "pixel art",
+    "prompt": "pixel art style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "8-bit",
+    "prompt": "8-bit style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "8-bit",
+    "prompt": "8-bit style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "oil painting",
+    "prompt": "oil painting style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "oil painting",
+    "prompt": "oil painting style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Abraham raising the knife over Isaac, angel stopping his hand, ram caught in thicket"
+  },
+  {
+    "theme": "sacrifice",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Jesus breaking bread at Last Supper, disciples solemn, shadows of the cross cast on the wall"
+  },
+  {
+    "theme": "joy",
+    "style": "stained glass",
+    "prompt": "stained glass style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "stained glass",
+    "prompt": "stained glass style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "mosaic",
+    "prompt": "mosaic style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "mosaic",
+    "prompt": "mosaic style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "baroque",
+    "prompt": "baroque style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "baroque",
+    "prompt": "baroque style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "noir",
+    "prompt": "noir style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "noir",
+    "prompt": "noir style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "impressionist",
+    "prompt": "impressionist style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "impressionist",
+    "prompt": "impressionist style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "surrealist",
+    "prompt": "surrealist style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "surrealist",
+    "prompt": "surrealist style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "minimalist",
+    "prompt": "minimalist style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "minimalist",
+    "prompt": "minimalist style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "woodcut",
+    "prompt": "woodcut style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "woodcut",
+    "prompt": "woodcut style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "line art",
+    "prompt": "line art style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "line art",
+    "prompt": "line art style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "renaissance",
+    "prompt": "renaissance style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "renaissance",
+    "prompt": "renaissance style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "anime",
+    "prompt": "anime style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "anime",
+    "prompt": "anime style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "pixel art",
+    "prompt": "pixel art style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "pixel art",
+    "prompt": "pixel art style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "8-bit",
+    "prompt": "8-bit style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "8-bit",
+    "prompt": "8-bit style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "oil painting",
+    "prompt": "oil painting style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "oil painting",
+    "prompt": "oil painting style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "joy",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Mary visiting Elizabeth, both women glowing with joy, John leaping in the womb"
+  },
+  {
+    "theme": "joy",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Israel dancing after crossing the Red Sea, Miriam with tambourine, waves still parted"
+  },
+  {
+    "theme": "war",
+    "style": "stained glass",
+    "prompt": "stained glass style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "stained glass",
+    "prompt": "stained glass style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "mosaic",
+    "prompt": "mosaic style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "mosaic",
+    "prompt": "mosaic style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "baroque",
+    "prompt": "baroque style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "baroque",
+    "prompt": "baroque style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "noir",
+    "prompt": "noir style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "noir",
+    "prompt": "noir style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "dreamlike",
+    "prompt": "dreamlike style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "impressionist",
+    "prompt": "impressionist style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "impressionist",
+    "prompt": "impressionist style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "vaporwave",
+    "prompt": "vaporwave style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "surrealist",
+    "prompt": "surrealist style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "surrealist",
+    "prompt": "surrealist style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "minimalist",
+    "prompt": "minimalist style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "minimalist",
+    "prompt": "minimalist style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "woodcut",
+    "prompt": "woodcut style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "woodcut",
+    "prompt": "woodcut style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "line art",
+    "prompt": "line art style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "line art",
+    "prompt": "line art style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "medieval manuscript",
+    "prompt": "medieval manuscript style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "renaissance",
+    "prompt": "renaissance style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "renaissance",
+    "prompt": "renaissance style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "cyberpunk",
+    "prompt": "cyberpunk style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "anime",
+    "prompt": "anime style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "anime",
+    "prompt": "anime style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "pixel art",
+    "prompt": "pixel art style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "pixel art",
+    "prompt": "pixel art style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "8-bit",
+    "prompt": "8-bit style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "8-bit",
+    "prompt": "8-bit style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "oil painting",
+    "prompt": "oil painting style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "oil painting",
+    "prompt": "oil painting style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  },
+  {
+    "theme": "war",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, David facing Goliath, sling raised, soldiers watching in breathless silence"
+  },
+  {
+    "theme": "war",
+    "style": "hyperrealistic",
+    "prompt": "hyperrealistic style, Angels in heavenly battle against darkness, swords clashing in radiant sky"
+  }
+]
