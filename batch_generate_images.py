@@ -12,6 +12,15 @@ IMAGE_HEIGHT = 583
 # Ensure output folder exists
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
+# Utility to get a unique filename
+def get_unique_filename(base_name, ext=".png"):
+    counter = 1
+    filename = f"{base_name}{ext}"
+    while os.path.exists(os.path.join(OUTPUT_FOLDER, filename)):
+        filename = f"{base_name}_{counter}{ext}"
+        counter += 1
+    return filename
+
 # Load the preset prompts
 with open(PRESETS_FILE, "r") as f:
     presets = json.load(f)
@@ -21,12 +30,9 @@ for preset in presets:
     style = preset["style"]
     prompt = f"{style} style, {theme} background with biblical symbolism"
 
-    file_name = f"{theme}_{style}.png".replace(" ", "_").lower()
-    file_path = os.path.join(OUTPUT_FOLDER, file_name)
-
-    if os.path.exists(file_path):
-        print(f"✅ Already exists: {file_name} — skipping.")
-        continue
+    base_name = f"{theme}_{style}".replace(" ", "_").lower()
+    unique_file_name = get_unique_filename(base_name)
+    file_path = os.path.join(OUTPUT_FOLDER, unique_file_name)
 
     print(f"🔹 Generating image for: {theme} [{style}]")
 
@@ -51,7 +57,7 @@ for preset in presets:
         with open(file_path, "wb") as f:
             f.write(image_bytes)
 
-        print(f"✅ Saved: {file_name}")
+        print(f"✅ Saved: {unique_file_name}")
 
     except Exception as e:
         print(f"❌ Error generating image for {theme} [{style}]: {e}")
