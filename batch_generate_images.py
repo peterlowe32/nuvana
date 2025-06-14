@@ -4,7 +4,7 @@ import os
 import requests
 
 API_URL = "https://b23b-103-196-86-59.ngrok-free.app/sdapi/v1/txt2img"
-PRESETS_FILE = "verse_image_metadata.json"
+PRESETS_FILE = "verse_image_metadatav2.json"
 OUTPUT_FOLDER = "generated_images"
 IMAGE_WIDTH = 1004
 IMAGE_HEIGHT = 583
