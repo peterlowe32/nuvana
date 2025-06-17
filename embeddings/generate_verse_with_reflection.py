@@ -8,8 +8,15 @@ from openai import OpenAI
 VECTORSTORE_PATH = r"C:\Users\peter\Documents\AI\Flutter\nuvana\embeddings\bible_verse_embeddings"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+# === THEME SET ===
+VALID_THEMES = {
+    "creation", "darkness", "fear", "grace", "guidance", "hope", "joy", "judgement",
+    "justice", "light", "love", "peace", "redemption", "repentance", "sacrifice",
+    "salvation", "suffering", "war", "wisdom", "wrath"
+}
+
 # === SETUP ===
-embedding_model = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
+embedding_model = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 db = FAISS.load_local(VECTORSTORE_PATH, embedding_model, allow_dangerous_deserialization=True)
 client = OpenAI(api_key=OPENAI_API_KEY)
 
@@ -70,8 +77,14 @@ Speak with warmth, insight, and Christian conviction.
     return response.choices[0].message.content.strip()
 
 # === 4. Format TheoBot-friendly output ===
-def format_theobot_block(verse_ref: str, verse: str, reflection: str) -> str:
-    return f"""📖 *Verse of the Day: {verse_ref}*\n“{verse}”\n\n🧠 *Reflection*: {reflection}"""
+def format_theobot_block(verse_ref: str, verse: str, reflection: str, theme: str) -> str:
+    theme_used = theme.lower() if theme.lower() in VALID_THEMES else "default"
+    return json.dumps({
+        "reference": verse_ref,
+        "verse": verse,
+        "reflection": reflection,
+        "theme": theme_used
+    }, indent=2)
 
 # === MAIN USAGE ===
 if __name__ == "__main__":
@@ -96,6 +109,7 @@ if __name__ == "__main__":
     # 3. Generate reflection
     reflection = generate_reflection(verse, tags, user_input)
 
-    # 4. Display output
-    final_block = format_theobot_block(verse_ref, verse, reflection)
-    print("\n" + final_block)
+    # 4. Output JSON block with valid theme
+    final_block = format_theobot_block(verse_ref, verse, reflection, classification["theme"])
+    print("\n✅ JSON Output for Frontend:\n")
+    print(final_block)
